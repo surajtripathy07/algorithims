@@ -72,12 +72,17 @@ public class MergeIntervals {
 				newInterval = interval;
 			} else {
 
+				// Control will come here when interval and newInterval Overlap!
+
 				// take smaller of the start
 				int smallerStart = (interval.start < newInterval.start) ? interval.start : newInterval.start;
 				// take bigger of end
 				int biggerEnd = (interval.end > newInterval.end) ? interval.end : newInterval.end;
 
 				newInterval = new Interval(smallerStart, biggerEnd);
+				// not adding because this newInterval might overlap with the
+				// next interval
+				// in the list
 			}
 		}
 		// add the last marked newInterval which was left unadded
@@ -96,6 +101,7 @@ public class MergeIntervals {
 		intervals.add(new Interval(0, 0));
 		intervals.add(new Interval(12, 16));
 
+		// o/p [0,9][12,16]
 		System.out.println(i.insert(intervals, new Interval(0, 9)));
 
 	}
