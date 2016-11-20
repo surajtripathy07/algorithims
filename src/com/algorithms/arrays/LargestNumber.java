@@ -1,4 +1,5 @@
 package com.algorithms.arrays;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -15,9 +16,16 @@ public class LargestNumber {
 
 	// DO NOT MODIFY THE LIST
 	public String largestNumber(final List<Integer> a) {
+
+		// Implementing a custom comparator to sort the list such that 9 , 54
+		// become 954 not 549 as normal sort would determine 54 > 9
 		Collections.sort(a, new Comparator<Integer>() {
+			// if a1 = 9 and a2 = 54
+			// compare(9,54) would return 9 > 54
 			public int compare(Integer a1, Integer a2) {
 				StringBuffer buff = new StringBuffer();
+				// append the two integers
+
 				String one = buff.append(a1).append(a2).toString();
 				buff = new StringBuffer();
 				String two = buff.append(a2).append(a1).toString();
@@ -52,6 +60,9 @@ public class LargestNumber {
 		// only equal length strings will continue post this point
 		int len = first.length();
 
+		// Parsing a string to identify which string value is greater
+		// 1111111111113111111111111111, 1111111111114111111111111111 will
+		// return -1 on the 13th iteration when 3 < 4
 		for (int i = 0; i < len; i++) {
 			int one = Character.getNumericValue(first.charAt(i));
 			int two = Character.getNumericValue(second.charAt(i));
