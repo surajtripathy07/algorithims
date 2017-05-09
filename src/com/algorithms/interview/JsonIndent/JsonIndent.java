@@ -25,7 +25,7 @@ Output :
 
 Example 2:
 
-Input : ['foo', {'bar':['baz',null,1.0,2]}]
+Input : ["foo", {"bar":["baz",null,1.0,2]}]
 Output : 
 [
     "foo", 
@@ -50,6 +50,7 @@ Your solution should return a list of strings, where each entry corresponds to a
 public class JsonIndent {
 //{A:"B",C:{D:"E",F:{G:"H",I:"J"}}}
 	public ArrayList<String> prettyJSON(String a) {
+		a = a.replaceAll(" ", "");
 		ArrayList<String> json = new ArrayList<String>();
 		boolean addtab = false;
 		StringBuffer tab = new StringBuffer("");
@@ -65,11 +66,17 @@ public class JsonIndent {
 			}
 
 			if (c == '{' || c =='['){
-				if (b.length() != 0 && !(b.replace("\t").toString().isEmpty())){
-					json.add(b.toString());
-					b.setLength(0);
+				boolean isEmpty = false;
+				if (b.length() != 0){
+					if (!(b.length() == tab.length())){
+						json.add(b.toString());
+						b.setLength(0);
+					}else {
+						isEmpty = true;
+					}
 				}
-				b.append(tab);
+				if (!isEmpty)
+					b.append(tab);
 				b.append(c);
 				addtab = true;
 				json.add(b.toString());
