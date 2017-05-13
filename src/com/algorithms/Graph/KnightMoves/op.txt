@@ -1,0 +1,3098 @@
+Going to process 8 14
+Going to process in 6 13 child of 814
+Going to process in 4 12 child of 613
+Going to process in 2 11 child of 412
+Going to process in 4 10 child of 211
+Going to process in 2 9 child of 410
+Going to process in 4 8 child of 29
+Going to process in 2 7 child of 48
+Going to process in 4 6 child of 27
+Going to process in 2 5 child of 46
+Going to process in 4 4 child of 25
+Going to process in 2 3 child of 44
+Going to process in 4 2 child of 23
+Going to process in 2 1 child of 42
+Going to process in 4 2 child of 21
+Number of steps for 4 2 -1
+Going to process in 1 3 child of 21
+Going to process in 3 2 child of 13
+Going to process in 1 1 child of 32
+Going to process in 3 2 child of 11
+Number of steps for 3 2 -1
+Going to process in 2 3 child of 11
+Number of steps for 2 3 -1
+Number of steps for 1 1 -1
+Going to process in 1 3 child of 32
+Number of steps for 1 3 -1
+Going to process in 5 1 child of 32
+Going to process in 3 2 child of 51
+Number of steps for 3 2 -1
+Going to process in 7 2 child of 51
+Going to process in 5 1 child of 72
+Number of steps for 5 1 -1
+Going to process in 5 3 child of 72
+Going to process in 3 2 child of 53
+Number of steps for 3 2 -1
+Going to process in 3 4 child of 53
+Going to process in 1 3 child of 34
+Number of steps for 1 3 -1
+Going to process in 1 5 child of 34
+Going to process in 3 4 child of 15
+Number of steps for 3 4 -1
+Going to process in 3 6 child of 15
+Going to process in 1 5 child of 36
+Number of steps for 1 5 -1
+Going to process in 1 7 child of 36
+Going to process in 3 6 child of 17
+Number of steps for 3 6 -1
+Going to process in 3 8 child of 17
+Going to process in 1 7 child of 38
+Number of steps for 1 7 -1
+Going to process in 1 9 child of 38
+Going to process in 3 8 child of 19
+Number of steps for 3 8 -1
+Going to process in 3 10 child of 19
+Going to process in 1 9 child of 310
+Number of steps for 1 9 -1
+Going to process in 1 11 child of 310
+Going to process in 3 10 child of 111
+Number of steps for 3 10 -1
+Going to process in 3 12 child of 111
+Going to process in 1 11 child of 312
+Number of steps for 1 11 -1
+Going to process in 1 13 child of 312
+Going to process in 3 12 child of 113
+Number of steps for 3 12 -1
+Going to process in 3 14 child of 113
+Going to process in 1 13 child of 314
+Number of steps for 1 13 -1
+Going to process in 1 15 child of 314
+Going to process in 3 14 child of 115
+Number of steps for 3 14 -1
+Going to process in 3 16 child of 115
+Going to process in 1 15 child of 316
+Number of steps for 1 15 -1
+Going to process in 1 17 child of 316
+Going to process in 3 16 child of 117
+Number of steps for 3 16 -1
+Going to process in 2 15 child of 117
+Going to process in 4 14 child of 215
+Going to process in 2 13 child of 414
+Going to process in 4 12 child of 213
+Number of steps for 4 12 -1
+Going to process in 4 14 child of 213
+Number of steps for 4 14 -1
+Going to process in 1 15 child of 213
+Number of steps for 1 15 -1
+Going to process in 3 15 child of 213
+Going to process in 1 14 child of 315
+Going to process in 3 13 child of 114
+Going to process in 1 12 child of 313
+Going to process in 3 11 child of 112
+Going to process in 1 10 child of 311
+Going to process in 3 9 child of 110
+Going to process in 1 8 child of 39
+Going to process in 3 7 child of 18
+Going to process in 1 6 child of 37
+Going to process in 3 5 child of 16
+Going to process in 1 4 child of 35
+Going to process in 3 3 child of 14
+Going to process in 1 2 child of 33
+Going to process in 3 1 child of 12
+Going to process in 1 2 child of 31
+Number of steps for 1 2 -1
+Going to process in 5 2 child of 31
+Going to process in 3 1 child of 52
+Number of steps for 3 1 -1
+Going to process in 3 3 child of 52
+Number of steps for 3 3 -1
+Going to process in 7 1 child of 52
+Going to process in 5 2 child of 71
+Number of steps for 5 2 -1
+Going to process in 9 2 child of 71
+Going to process in 7 1 child of 92
+Number of steps for 7 1 -1
+Going to process in 7 3 child of 92
+Going to process in 5 2 child of 73
+Number of steps for 5 2 -1
+Going to process in 5 4 child of 73
+Going to process in 3 3 child of 54
+Number of steps for 3 3 -1
+Going to process in 3 5 child of 54
+Number of steps for 3 5 -1
+Going to process in 7 3 child of 54
+Number of steps for 7 3 -1
+Going to process in 7 5 child of 54
+Going to process in 5 4 child of 75
+Number of steps for 5 4 -1
+Going to process in 5 6 child of 75
+Going to process in 3 5 child of 56
+Number of steps for 3 5 -1
+Going to process in 3 7 child of 56
+Number of steps for 3 7 -1
+Going to process in 7 5 child of 56
+Number of steps for 7 5 -1
+Going to process in 7 7 child of 56
+Going to process in 5 6 child of 77
+Number of steps for 5 6 -1
+Going to process in 5 8 child of 77
+Going to process in 3 7 child of 58
+Number of steps for 3 7 -1
+Going to process in 3 9 child of 58
+Number of steps for 3 9 -1
+Going to process in 7 7 child of 58
+Number of steps for 7 7 -1
+Going to process in 7 9 child of 58
+Going to process in 5 8 child of 79
+Number of steps for 5 8 -1
+Going to process in 5 10 child of 79
+Going to process in 3 9 child of 510
+Number of steps for 3 9 -1
+Going to process in 3 11 child of 510
+Number of steps for 3 11 -1
+Going to process in 7 9 child of 510
+Number of steps for 7 9 -1
+Going to process in 7 11 child of 510
+Going to process in 5 10 child of 711
+Number of steps for 5 10 -1
+Going to process in 5 12 child of 711
+Going to process in 3 11 child of 512
+Number of steps for 3 11 -1
+Going to process in 3 13 child of 512
+Number of steps for 3 13 -1
+Going to process in 7 11 child of 512
+Number of steps for 7 11 -1
+Going to process in 7 13 child of 512
+Going to process in 5 12 child of 713
+Number of steps for 5 12 -1
+Going to process in 5 14 child of 713
+Going to process in 3 13 child of 514
+Number of steps for 3 13 -1
+Going to process in 3 15 child of 514
+Number of steps for 3 15 -1
+Going to process in 7 13 child of 514
+Number of steps for 7 13 -1
+Going to process in 7 15 child of 514
+Going to process in 5 14 child of 715
+Number of steps for 5 14 -1
+Going to process in 5 16 child of 715
+Going to process in 3 15 child of 516
+Number of steps for 3 15 -1
+Going to process in 3 17 child of 516
+Going to process in 1 16 child of 317
+Going to process in 3 15 child of 116
+Number of steps for 3 15 -1
+Going to process in 3 17 child of 116
+Number of steps for 3 17 -1
+Going to process in 2 14 child of 116
+Going to process in 4 13 child of 214
+Going to process in 2 12 child of 413
+Going to process in 4 11 child of 212
+Going to process in 2 10 child of 411
+Number of steps for 2 10 0
+Setting s to 210 s->0
+new steps for 4 11is 1
+Going to process in 2 12 child of 411
+Number of steps for 2 12 -1
+Going to process in 6 10 child of 411
+Going to process in 4 9 child of 610
+Going to process in 2 8 child of 49
+Going to process in 4 7 child of 28
+Going to process in 2 6 child of 47
+Going to process in 4 5 child of 26
+Going to process in 2 4 child of 45
+Going to process in 4 3 child of 24
+Going to process in 2 2 child of 43
+Going to process in 4 1 child of 22
+Going to process in 2 2 child of 41
+Number of steps for 2 2 -1
+Going to process in 6 2 child of 41
+Going to process in 4 1 child of 62
+Number of steps for 4 1 -1
+Going to process in 4 3 child of 62
+Number of steps for 4 3 -1
+Going to process in 8 1 child of 62
+Going to process in 6 2 child of 81
+Number of steps for 6 2 -1
+Going to process in 10 2 child of 81
+Going to process in 8 1 child of 102
+Number of steps for 8 1 -1
+Going to process in 8 3 child of 102
+Going to process in 6 2 child of 83
+Number of steps for 6 2 -1
+Going to process in 6 4 child of 83
+Going to process in 4 3 child of 64
+Number of steps for 4 3 -1
+Going to process in 4 5 child of 64
+Number of steps for 4 5 -1
+Going to process in 8 3 child of 64
+Number of steps for 8 3 -1
+Going to process in 8 5 child of 64
+Going to process in 6 4 child of 85
+Number of steps for 6 4 -1
+Going to process in 6 6 child of 85
+Going to process in 4 5 child of 66
+Number of steps for 4 5 -1
+Going to process in 4 7 child of 66
+Number of steps for 4 7 -1
+Going to process in 8 5 child of 66
+Number of steps for 8 5 -1
+Going to process in 8 7 child of 66
+Going to process in 6 6 child of 87
+Number of steps for 6 6 -1
+Going to process in 6 8 child of 87
+Going to process in 4 7 child of 68
+Number of steps for 4 7 -1
+Going to process in 4 9 child of 68
+Number of steps for 4 9 -1
+Going to process in 8 7 child of 68
+Number of steps for 8 7 -1
+Going to process in 8 9 child of 68
+Going to process in 6 8 child of 89
+Number of steps for 6 8 -1
+Going to process in 6 10 child of 89
+Number of steps for 6 10 -1
+Going to process in 10 8 child of 89
+Going to process in 8 7 child of 108
+Number of steps for 8 7 -1
+Going to process in 8 9 child of 108
+Number of steps for 8 9 -1
+Going to process in 12 7 child of 108
+Going to process in 10 6 child of 127
+Going to process in 8 5 child of 106
+Number of steps for 8 5 -1
+Going to process in 8 7 child of 106
+Number of steps for 8 7 -1
+Going to process in 12 5 child of 106
+Going to process in 10 4 child of 125
+Going to process in 8 3 child of 104
+Number of steps for 8 3 -1
+Going to process in 8 5 child of 104
+Number of steps for 8 5 -1
+Going to process in 12 3 child of 104
+Going to process in 10 2 child of 123
+Number of steps for 10 2 -1
+Going to process in 10 4 child of 123
+Number of steps for 10 4 -1
+Going to process in 14 2 child of 123
+Going to process in 12 1 child of 142
+Going to process in 10 2 child of 121
+Number of steps for 10 2 -1
+Going to process in 14 2 child of 121
+Number of steps for 14 2 -1
+Going to process in 11 3 child of 121
+Number of steps for 11 3 -1
+Going to process in 13 3 child of 121
+Going to process in 11 2 child of 133
+Number of steps for 11 2 -1
+Going to process in 11 4 child of 133
+Number of steps for 11 4 -1
+Going to process in 12 5 child of 133
+Number of steps for 12 5 -1
+Going to process in 14 5 child of 133
+Going to process in 12 4 child of 145
+Going to process in 10 3 child of 124
+Going to process in 8 2 child of 103
+Going to process in 6 1 child of 82
+Going to process in 4 2 child of 61
+Number of steps for 4 2 -1
+Going to process in 8 2 child of 61
+Number of steps for 8 2 -1
+Going to process in 5 3 child of 61
+Number of steps for 5 3 -1
+Going to process in 7 3 child of 61
+Number of steps for 7 3 -1
+Number of steps for 6 1 -1
+Going to process in 6 3 child of 82
+Going to process in 4 2 child of 63
+Number of steps for 4 2 -1
+Going to process in 4 4 child of 63
+Number of steps for 4 4 -1
+Going to process in 8 2 child of 63
+Number of steps for 8 2 -1
+Going to process in 8 4 child of 63
+Going to process in 6 3 child of 84
+Number of steps for 6 3 -1
+Going to process in 6 5 child of 84
+Going to process in 4 4 child of 65
+Number of steps for 4 4 -1
+Going to process in 4 6 child of 65
+Number of steps for 4 6 -1
+Going to process in 8 4 child of 65
+Number of steps for 8 4 -1
+Going to process in 8 6 child of 65
+Going to process in 6 5 child of 86
+Number of steps for 6 5 -1
+Going to process in 6 7 child of 86
+Going to process in 4 6 child of 67
+Number of steps for 4 6 -1
+Going to process in 4 8 child of 67
+Number of steps for 4 8 -1
+Going to process in 8 6 child of 67
+Number of steps for 8 6 -1
+Going to process in 8 8 child of 67
+Going to process in 6 7 child of 88
+Number of steps for 6 7 -1
+Going to process in 6 9 child of 88
+Going to process in 4 8 child of 69
+Number of steps for 4 8 -1
+Going to process in 4 10 child of 69
+Number of steps for 4 10 -1
+Going to process in 8 8 child of 69
+Number of steps for 8 8 -1
+Going to process in 8 10 child of 69
+Going to process in 6 9 child of 810
+Number of steps for 6 9 -1
+Going to process in 6 11 child of 810
+Going to process in 4 10 child of 611
+Number of steps for 4 10 -1
+Going to process in 4 12 child of 611
+Number of steps for 4 12 -1
+Going to process in 8 10 child of 611
+Number of steps for 8 10 -1
+Going to process in 8 12 child of 611
+Going to process in 6 11 child of 812
+Number of steps for 6 11 -1
+Going to process in 6 13 child of 812
+Number of steps for 6 13 -1
+Going to process in 10 11 child of 812
+Going to process in 8 10 child of 1011
+Number of steps for 8 10 -1
+Going to process in 8 12 child of 1011
+Number of steps for 8 12 -1
+Going to process in 12 10 child of 1011
+Going to process in 10 9 child of 1210
+Going to process in 8 8 child of 109
+Number of steps for 8 8 -1
+Going to process in 8 10 child of 109
+Number of steps for 8 10 -1
+Going to process in 12 8 child of 109
+Going to process in 10 7 child of 128
+Going to process in 8 6 child of 107
+Number of steps for 8 6 -1
+Going to process in 8 8 child of 107
+Number of steps for 8 8 -1
+Going to process in 12 6 child of 107
+Going to process in 10 5 child of 126
+Going to process in 8 4 child of 105
+Number of steps for 8 4 -1
+Going to process in 8 6 child of 105
+Number of steps for 8 6 -1
+Going to process in 12 4 child of 105
+Number of steps for 12 4 -1
+Going to process in 12 6 child of 105
+Number of steps for 12 6 -1
+Going to process in 9 7 child of 105
+Going to process in 7 6 child of 97
+Going to process in 5 5 child of 76
+Going to process in 3 4 child of 55
+Number of steps for 3 4 -1
+Going to process in 3 6 child of 55
+Number of steps for 3 6 -1
+Going to process in 7 4 child of 55
+Going to process in 5 3 child of 74
+Number of steps for 5 3 -1
+Going to process in 5 5 child of 74
+Number of steps for 5 5 -1
+Going to process in 9 3 child of 74
+Going to process in 7 2 child of 93
+Number of steps for 7 2 -1
+Going to process in 7 4 child of 93
+Number of steps for 7 4 -1
+Going to process in 11 2 child of 93
+Number of steps for 11 2 -1
+Going to process in 11 4 child of 93
+Number of steps for 11 4 -1
+Going to process in 8 5 child of 93
+Number of steps for 8 5 -1
+Going to process in 10 5 child of 93
+Number of steps for 10 5 -1
+Going to process in 8 1 child of 93
+Number of steps for 8 1 -1
+Going to process in 10 1 child of 93
+Going to process in 8 2 child of 101
+Number of steps for 8 2 -1
+Going to process in 12 2 child of 101
+Going to process in 10 1 child of 122
+Number of steps for 10 1 -1
+Going to process in 10 3 child of 122
+Number of steps for 10 3 -1
+Going to process in 14 1 child of 122
+Going to process in 12 2 child of 141
+Number of steps for 12 2 -1
+Going to process in 13 3 child of 141
+Number of steps for 13 3 -1
+Number of steps for 14 1 -1
+Going to process in 14 3 child of 122
+Going to process in 12 2 child of 143
+Number of steps for 12 2 -1
+Going to process in 12 4 child of 143
+Number of steps for 12 4 -1
+Going to process in 13 5 child of 143
+Going to process in 11 4 child of 135
+Number of steps for 11 4 -1
+Going to process in 11 6 child of 135
+Number of steps for 11 6 -1
+Going to process in 12 7 child of 135
+Number of steps for 12 7 -1
+Going to process in 14 7 child of 135
+Going to process in 12 6 child of 147
+Number of steps for 12 6 -1
+Going to process in 12 8 child of 147
+Number of steps for 12 8 -1
+Going to process in 13 9 child of 147
+Going to process in 11 8 child of 139
+Going to process in 9 7 child of 118
+Number of steps for 9 7 -1
+Going to process in 9 9 child of 118
+Going to process in 7 8 child of 99
+Going to process in 5 7 child of 78
+Going to process in 3 6 child of 57
+Number of steps for 3 6 -1
+Going to process in 3 8 child of 57
+Number of steps for 3 8 -1
+Going to process in 7 6 child of 57
+Number of steps for 7 6 -1
+Going to process in 7 8 child of 57
+Number of steps for 7 8 -1
+Going to process in 4 9 child of 57
+Number of steps for 4 9 -1
+Going to process in 6 9 child of 57
+Number of steps for 6 9 -1
+Going to process in 4 5 child of 57
+Number of steps for 4 5 -1
+Going to process in 6 5 child of 57
+Number of steps for 6 5 -1
+Number of steps for 5 7 -1
+Going to process in 5 9 child of 78
+Going to process in 3 8 child of 59
+Number of steps for 3 8 -1
+Going to process in 3 10 child of 59
+Number of steps for 3 10 -1
+Going to process in 7 8 child of 59
+Number of steps for 7 8 -1
+Going to process in 7 10 child of 59
+Going to process in 5 9 child of 710
+Number of steps for 5 9 -1
+Going to process in 5 11 child of 710
+Going to process in 3 10 child of 511
+Number of steps for 3 10 -1
+Going to process in 3 12 child of 511
+Number of steps for 3 12 -1
+Going to process in 7 10 child of 511
+Number of steps for 7 10 -1
+Going to process in 7 12 child of 511
+Going to process in 5 11 child of 712
+Number of steps for 5 11 -1
+Going to process in 5 13 child of 712
+Going to process in 3 12 child of 513
+Number of steps for 3 12 -1
+Going to process in 3 14 child of 513
+Number of steps for 3 14 -1
+Going to process in 7 12 child of 513
+Number of steps for 7 12 -1
+Going to process in 7 14 child of 513
+Going to process in 5 13 child of 714
+Number of steps for 5 13 -1
+Going to process in 5 15 child of 714
+Going to process in 3 14 child of 515
+Number of steps for 3 14 -1
+Going to process in 3 16 child of 515
+Number of steps for 3 16 -1
+Going to process in 7 14 child of 515
+Number of steps for 7 14 -1
+Going to process in 7 16 child of 515
+Going to process in 5 15 child of 716
+Number of steps for 5 15 -1
+Going to process in 5 17 child of 716
+Going to process in 3 16 child of 517
+Number of steps for 3 16 -1
+Going to process in 7 16 child of 517
+Number of steps for 7 16 -1
+Going to process in 4 15 child of 517
+Going to process in 2 14 child of 415
+Number of steps for 2 14 -1
+Going to process in 2 16 child of 415
+Going to process in 4 15 child of 216
+Number of steps for 4 15 -1
+Going to process in 4 17 child of 216
+Going to process in 2 16 child of 417
+Number of steps for 2 16 -1
+Going to process in 6 16 child of 417
+Going to process in 4 15 child of 616
+Number of steps for 4 15 -1
+Going to process in 4 17 child of 616
+Number of steps for 4 17 -1
+Going to process in 8 15 child of 616
+Going to process in 6 14 child of 815
+Going to process in 4 13 child of 614
+Number of steps for 4 13 -1
+Going to process in 4 15 child of 614
+Number of steps for 4 15 -1
+Going to process in 8 13 child of 614
+Going to process in 6 12 child of 813
+Going to process in 4 11 child of 612
+Number of steps for 4 11 -1
+Going to process in 4 13 child of 612
+Number of steps for 4 13 -1
+Going to process in 8 11 child of 612
+Going to process in 6 10 child of 811
+Number of steps for 6 10 -1
+Going to process in 6 12 child of 811
+Number of steps for 6 12 -1
+Going to process in 10 10 child of 811
+Going to process in 8 9 child of 1010
+Number of steps for 8 9 -1
+Going to process in 8 11 child of 1010
+Number of steps for 8 11 -1
+Going to process in 12 9 child of 1010
+Going to process in 10 8 child of 129
+Number of steps for 10 8 -1
+Going to process in 10 10 child of 129
+Number of steps for 10 10 -1
+Going to process in 14 8 child of 129
+Going to process in 12 7 child of 148
+Number of steps for 12 7 -1
+Going to process in 12 9 child of 148
+Number of steps for 12 9 -1
+Going to process in 13 10 child of 148
+Going to process in 11 9 child of 1310
+Going to process in 9 8 child of 119
+Going to process in 7 7 child of 98
+Number of steps for 7 7 -1
+Going to process in 7 9 child of 98
+Number of steps for 7 9 -1
+Going to process in 11 7 child of 98
+Number of steps for 11 7 -1
+Going to process in 11 9 child of 98
+Number of steps for 11 9 -1
+Going to process in 8 10 child of 98
+Number of steps for 8 10 -1
+Going to process in 10 10 child of 98
+Number of steps for 10 10 -1
+Going to process in 8 6 child of 98
+Number of steps for 8 6 -1
+Going to process in 10 6 child of 98
+Number of steps for 10 6 -1
+Number of steps for 9 8 -1
+Going to process in 9 10 child of 119
+Going to process in 7 9 child of 910
+Number of steps for 7 9 -1
+Going to process in 7 11 child of 910
+Number of steps for 7 11 -1
+Going to process in 11 9 child of 910
+Number of steps for 11 9 -1
+Going to process in 11 11 child of 910
+Going to process in 9 10 child of 1111
+Number of steps for 9 10 -1
+Going to process in 9 12 child of 1111
+Going to process in 7 11 child of 912
+Number of steps for 7 11 -1
+Going to process in 7 13 child of 912
+Number of steps for 7 13 -1
+Going to process in 11 11 child of 912
+Number of steps for 11 11 -1
+Going to process in 11 13 child of 912
+Going to process in 9 12 child of 1113
+Number of steps for 9 12 -1
+Going to process in 9 14 child of 1113
+Going to process in 7 13 child of 914
+Number of steps for 7 13 -1
+Going to process in 7 15 child of 914
+Number of steps for 7 15 -1
+Going to process in 11 13 child of 914
+Number of steps for 11 13 -1
+Going to process in 11 15 child of 914
+Going to process in 9 14 child of 1115
+Number of steps for 9 14 -1
+Going to process in 9 16 child of 1115
+Going to process in 7 15 child of 916
+Number of steps for 7 15 -1
+Going to process in 7 17 child of 916
+Going to process in 5 16 child of 717
+Number of steps for 5 16 -1
+Going to process in 9 16 child of 717
+Number of steps for 9 16 -1
+Going to process in 6 15 child of 717
+Going to process in 4 14 child of 615
+Number of steps for 4 14 -1
+Going to process in 4 16 child of 615
+Going to process in 2 15 child of 416
+Number of steps for 2 15 -1
+Going to process in 2 17 child of 416
+Going to process in 4 16 child of 217
+Number of steps for 4 16 -1
+Going to process in 1 15 child of 217
+Number of steps for 1 15 -1
+Going to process in 3 15 child of 217
+Number of steps for 3 15 -1
+Number of steps for 2 17 -1
+Going to process in 6 15 child of 416
+Number of steps for 6 15 -1
+Going to process in 6 17 child of 416
+Going to process in 4 16 child of 617
+Number of steps for 4 16 -1
+Going to process in 8 16 child of 617
+Going to process in 6 15 child of 816
+Number of steps for 6 15 -1
+Going to process in 6 17 child of 816
+Number of steps for 6 17 -1
+Going to process in 10 15 child of 816
+Going to process in 8 14 child of 1015
+Number of steps for 8 14 -1
+Going to process in 8 16 child of 1015
+Number of steps for 8 16 -1
+Going to process in 12 14 child of 1015
+Going to process in 10 13 child of 1214
+Going to process in 8 12 child of 1013
+Number of steps for 8 12 -1
+Going to process in 8 14 child of 1013
+Number of steps for 8 14 -1
+Going to process in 12 12 child of 1013
+Going to process in 10 11 child of 1212
+Number of steps for 10 11 -1
+Going to process in 10 13 child of 1212
+Number of steps for 10 13 -1
+Going to process in 14 11 child of 1212
+Going to process in 12 10 child of 1411
+Number of steps for 12 10 -1
+Going to process in 12 12 child of 1411
+Number of steps for 12 12 -1
+Going to process in 13 13 child of 1411
+Going to process in 11 12 child of 1313
+Going to process in 9 11 child of 1112
+Going to process in 7 10 child of 911
+Number of steps for 7 10 -1
+Going to process in 7 12 child of 911
+Number of steps for 7 12 -1
+Going to process in 11 10 child of 911
+Going to process in 9 9 child of 1110
+Number of steps for 9 9 -1
+Going to process in 9 11 child of 1110
+Number of steps for 9 11 -1
+Going to process in 13 9 child of 1110
+Number of steps for 13 9 -1
+Going to process in 13 11 child of 1110
+Going to process in 11 10 child of 1311
+Number of steps for 11 10 -1
+Going to process in 11 12 child of 1311
+Number of steps for 11 12 -1
+Going to process in 12 13 child of 1311
+Going to process in 10 12 child of 1213
+Going to process in 8 11 child of 1012
+Number of steps for 8 11 -1
+Going to process in 8 13 child of 1012
+Number of steps for 8 13 -1
+Going to process in 12 11 child of 1012
+Going to process in 10 10 child of 1211
+Number of steps for 10 10 -1
+Going to process in 10 12 child of 1211
+Number of steps for 10 12 -1
+Going to process in 14 10 child of 1211
+Going to process in 12 9 child of 1410
+Number of steps for 12 9 -1
+Going to process in 12 11 child of 1410
+Number of steps for 12 11 -1
+Going to process in 13 12 child of 1410
+Going to process in 11 11 child of 1312
+Number of steps for 11 11 -1
+Going to process in 11 13 child of 1312
+Number of steps for 11 13 -1
+Going to process in 12 14 child of 1312
+Number of steps for 12 14 -1
+Going to process in 14 14 child of 1312
+Going to process in 12 13 child of 1414
+Number of steps for 12 13 -1
+Going to process in 12 15 child of 1414
+Going to process in 10 14 child of 1215
+Going to process in 8 13 child of 1014
+Number of steps for 8 13 -1
+Going to process in 8 15 child of 1014
+Number of steps for 8 15 -1
+Going to process in 12 13 child of 1014
+Number of steps for 12 13 -1
+Going to process in 12 15 child of 1014
+Number of steps for 12 15 -1
+Going to process in 9 16 child of 1014
+Number of steps for 9 16 -1
+Going to process in 11 16 child of 1014
+Going to process in 9 15 child of 1116
+Going to process in 7 14 child of 915
+Number of steps for 7 14 -1
+Going to process in 7 16 child of 915
+Number of steps for 7 16 -1
+Going to process in 11 14 child of 915
+Going to process in 9 13 child of 1114
+Going to process in 7 12 child of 913
+Number of steps for 7 12 -1
+Going to process in 7 14 child of 913
+Number of steps for 7 14 -1
+Going to process in 11 12 child of 913
+Number of steps for 11 12 -1
+Going to process in 11 14 child of 913
+Number of steps for 11 14 -1
+Going to process in 8 15 child of 913
+Number of steps for 8 15 -1
+Going to process in 10 15 child of 913
+Number of steps for 10 15 -1
+Going to process in 8 11 child of 913
+Number of steps for 8 11 -1
+Going to process in 10 11 child of 913
+Number of steps for 10 11 -1
+Number of steps for 9 13 -1
+Going to process in 9 15 child of 1114
+Number of steps for 9 15 -1
+Going to process in 13 13 child of 1114
+Number of steps for 13 13 -1
+Going to process in 13 15 child of 1114
+Going to process in 11 14 child of 1315
+Number of steps for 11 14 -1
+Going to process in 11 16 child of 1315
+Number of steps for 11 16 -1
+Going to process in 12 17 child of 1315
+Going to process in 10 16 child of 1217
+Going to process in 8 15 child of 1016
+Number of steps for 8 15 -1
+Going to process in 8 17 child of 1016
+Going to process in 6 16 child of 817
+Number of steps for 6 16 -1
+Going to process in 10 16 child of 817
+Number of steps for 10 16 -1
+Going to process in 7 15 child of 817
+Number of steps for 7 15 -1
+Going to process in 9 15 child of 817
+Number of steps for 9 15 -1
+Number of steps for 8 17 -1
+Going to process in 12 15 child of 1016
+Number of steps for 12 15 -1
+Going to process in 12 17 child of 1016
+Number of steps for 12 17 -1
+Going to process in 9 14 child of 1016
+Number of steps for 9 14 -1
+Going to process in 11 14 child of 1016
+Number of steps for 11 14 -1
+Number of steps for 10 16 -1
+Going to process in 14 16 child of 1217
+Going to process in 12 15 child of 1416
+Number of steps for 12 15 -1
+Going to process in 12 17 child of 1416
+Number of steps for 12 17 -1
+Going to process in 13 14 child of 1416
+Going to process in 11 13 child of 1314
+Number of steps for 11 13 -1
+Going to process in 11 15 child of 1314
+Number of steps for 11 15 -1
+Going to process in 12 16 child of 1314
+Going to process in 10 15 child of 1216
+Number of steps for 10 15 -1
+Going to process in 10 17 child of 1216
+Going to process in 8 16 child of 1017
+Number of steps for 8 16 -1
+Going to process in 12 16 child of 1017
+Number of steps for 12 16 -1
+Going to process in 9 15 child of 1017
+Number of steps for 9 15 -1
+Going to process in 11 15 child of 1017
+Number of steps for 11 15 -1
+Number of steps for 10 17 -1
+Going to process in 14 15 child of 1216
+Going to process in 12 14 child of 1415
+Number of steps for 12 14 -1
+Going to process in 12 16 child of 1415
+Number of steps for 12 16 -1
+Going to process in 13 17 child of 1415
+Going to process in 11 16 child of 1317
+Number of steps for 11 16 -1
+Going to process in 12 15 child of 1317
+Number of steps for 12 15 -1
+Going to process in 14 15 child of 1317
+Number of steps for 14 15 -1
+Number of steps for 13 17 -1
+Going to process in 13 13 child of 1415
+Number of steps for 13 13 -1
+Number of steps for 14 15 -1
+Going to process in 14 17 child of 1216
+Going to process in 12 16 child of 1417
+Number of steps for 12 16 -1
+Going to process in 13 15 child of 1417
+Number of steps for 13 15 -1
+Number of steps for 14 17 -1
+Going to process in 11 14 child of 1216
+Number of steps for 11 14 -1
+Going to process in 13 14 child of 1216
+Number of steps for 13 14 -1
+Number of steps for 12 16 -1
+Going to process in 14 16 child of 1314
+Number of steps for 14 16 -1
+Going to process in 12 12 child of 1314
+Number of steps for 12 12 -1
+Going to process in 14 12 child of 1314
+Going to process in 12 11 child of 1412
+Number of steps for 12 11 -1
+Going to process in 12 13 child of 1412
+Number of steps for 12 13 -1
+Going to process in 13 14 child of 1412
+Number of steps for 13 14 -1
+Going to process in 13 10 child of 1412
+Number of steps for 13 10 -1
+Number of steps for 14 12 -1
+Number of steps for 13 14 -1
+Number of steps for 14 16 -1
+Going to process in 11 15 child of 1217
+Number of steps for 11 15 -1
+Going to process in 13 15 child of 1217
+Number of steps for 13 15 -1
+Number of steps for 12 17 -1
+Going to process in 14 17 child of 1315
+Number of steps for 14 17 -1
+Going to process in 12 13 child of 1315
+Number of steps for 12 13 -1
+Going to process in 14 13 child of 1315
+Going to process in 12 12 child of 1413
+Number of steps for 12 12 -1
+Going to process in 12 14 child of 1413
+Number of steps for 12 14 -1
+Going to process in 13 15 child of 1413
+Number of steps for 13 15 -1
+Going to process in 13 11 child of 1413
+Number of steps for 13 11 -1
+Number of steps for 14 13 -1
+Number of steps for 13 15 -1
+Going to process in 10 16 child of 1114
+Number of steps for 10 16 -1
+Going to process in 12 16 child of 1114
+Number of steps for 12 16 -1
+Going to process in 10 12 child of 1114
+Number of steps for 10 12 -1
+Going to process in 12 12 child of 1114
+Number of steps for 12 12 -1
+Number of steps for 11 14 -1
+Going to process in 11 16 child of 915
+Number of steps for 11 16 -1
+Going to process in 8 17 child of 915
+Number of steps for 8 17 -1
+Going to process in 10 17 child of 915
+Number of steps for 10 17 -1
+Going to process in 8 13 child of 915
+Number of steps for 8 13 -1
+Going to process in 10 13 child of 915
+Number of steps for 10 13 -1
+Number of steps for 9 15 -1
+Going to process in 9 17 child of 1116
+Going to process in 7 16 child of 917
+Number of steps for 7 16 -1
+Going to process in 11 16 child of 917
+Number of steps for 11 16 -1
+Going to process in 8 15 child of 917
+Number of steps for 8 15 -1
+Going to process in 10 15 child of 917
+Number of steps for 10 15 -1
+Number of steps for 9 17 -1
+Going to process in 13 15 child of 1116
+Number of steps for 13 15 -1
+Going to process in 13 17 child of 1116
+Number of steps for 13 17 -1
+Going to process in 10 14 child of 1116
+Number of steps for 10 14 -1
+Going to process in 12 14 child of 1116
+Number of steps for 12 14 -1
+Number of steps for 11 16 -1
+Going to process in 9 12 child of 1014
+Number of steps for 9 12 -1
+Going to process in 11 12 child of 1014
+Number of steps for 11 12 -1
+Number of steps for 10 14 -1
+Going to process in 10 16 child of 1215
+Number of steps for 10 16 -1
+Going to process in 14 14 child of 1215
+Number of steps for 14 14 -1
+Going to process in 14 16 child of 1215
+Number of steps for 14 16 -1
+Going to process in 11 17 child of 1215
+Going to process in 9 16 child of 1117
+Number of steps for 9 16 -1
+Going to process in 13 16 child of 1117
+Going to process in 11 15 child of 1316
+Number of steps for 11 15 -1
+Going to process in 11 17 child of 1316
+Number of steps for 11 17 -1
+Going to process in 12 14 child of 1316
+Number of steps for 12 14 -1
+Going to process in 14 14 child of 1316
+Number of steps for 14 14 -1
+Number of steps for 13 16 -1
+Going to process in 10 15 child of 1117
+Number of steps for 10 15 -1
+Going to process in 12 15 child of 1117
+Number of steps for 12 15 -1
+Number of steps for 11 17 -1
+Going to process in 13 17 child of 1215
+Number of steps for 13 17 -1
+Going to process in 11 13 child of 1215
+Number of steps for 11 13 -1
+Going to process in 13 13 child of 1215
+Number of steps for 13 13 -1
+Number of steps for 12 15 -1
+Going to process in 13 16 child of 1414
+Number of steps for 13 16 -1
+Going to process in 13 12 child of 1414
+Number of steps for 13 12 -1
+Number of steps for 14 14 -1
+Going to process in 12 10 child of 1312
+Number of steps for 12 10 -1
+Going to process in 14 10 child of 1312
+Number of steps for 14 10 -1
+Number of steps for 13 12 -1
+Going to process in 13 8 child of 1410
+Going to process in 11 7 child of 138
+Number of steps for 11 7 -1
+Going to process in 11 9 child of 138
+Number of steps for 11 9 -1
+Going to process in 12 10 child of 138
+Number of steps for 12 10 -1
+Going to process in 14 10 child of 138
+Number of steps for 14 10 -1
+Going to process in 12 6 child of 138
+Number of steps for 12 6 -1
+Going to process in 14 6 child of 138
+Going to process in 12 5 child of 146
+Number of steps for 12 5 -1
+Going to process in 12 7 child of 146
+Number of steps for 12 7 -1
+Going to process in 13 8 child of 146
+Number of steps for 13 8 -1
+Going to process in 13 4 child of 146
+Going to process in 11 3 child of 134
+Number of steps for 11 3 -1
+Going to process in 11 5 child of 134
+Number of steps for 11 5 -1
+Going to process in 12 6 child of 134
+Number of steps for 12 6 -1
+Going to process in 14 6 child of 134
+Number of steps for 14 6 -1
+Going to process in 12 2 child of 134
+Number of steps for 12 2 -1
+Going to process in 14 2 child of 134
+Number of steps for 14 2 -1
+Number of steps for 13 4 -1
+Number of steps for 14 6 -1
+Number of steps for 13 8 -1
+Number of steps for 14 10 -1
+Going to process in 14 12 child of 1211
+Number of steps for 14 12 -1
+Going to process in 11 13 child of 1211
+Number of steps for 11 13 -1
+Going to process in 13 13 child of 1211
+Number of steps for 13 13 -1
+Going to process in 11 9 child of 1211
+Number of steps for 11 9 -1
+Going to process in 13 9 child of 1211
+Number of steps for 13 9 -1
+Number of steps for 12 11 -1
+Going to process in 12 13 child of 1012
+Number of steps for 12 13 -1
+Going to process in 9 14 child of 1012
+Number of steps for 9 14 -1
+Going to process in 11 14 child of 1012
+Number of steps for 11 14 -1
+Going to process in 9 10 child of 1012
+Number of steps for 9 10 -1
+Going to process in 11 10 child of 1012
+Number of steps for 11 10 -1
+Number of steps for 10 12 -1
+Going to process in 10 14 child of 1213
+Number of steps for 10 14 -1
+Going to process in 14 12 child of 1213
+Number of steps for 14 12 -1
+Going to process in 14 14 child of 1213
+Number of steps for 14 14 -1
+Going to process in 11 15 child of 1213
+Number of steps for 11 15 -1
+Going to process in 13 15 child of 1213
+Number of steps for 13 15 -1
+Going to process in 11 11 child of 1213
+Number of steps for 11 11 -1
+Going to process in 13 11 child of 1213
+Number of steps for 13 11 -1
+Number of steps for 12 13 -1
+Going to process in 14 13 child of 1311
+Number of steps for 14 13 -1
+Going to process in 12 9 child of 1311
+Number of steps for 12 9 -1
+Going to process in 14 9 child of 1311
+Going to process in 12 8 child of 149
+Number of steps for 12 8 -1
+Going to process in 12 10 child of 149
+Number of steps for 12 10 -1
+Going to process in 13 11 child of 149
+Number of steps for 13 11 -1
+Going to process in 13 7 child of 149
+Going to process in 11 6 child of 137
+Number of steps for 11 6 -1
+Going to process in 11 8 child of 137
+Number of steps for 11 8 -1
+Going to process in 12 9 child of 137
+Number of steps for 12 9 -1
+Going to process in 14 9 child of 137
+Number of steps for 14 9 -1
+Going to process in 12 5 child of 137
+Number of steps for 12 5 -1
+Going to process in 14 5 child of 137
+Number of steps for 14 5 -1
+Number of steps for 13 7 -1
+Number of steps for 14 9 -1
+Number of steps for 13 11 -1
+Going to process in 10 12 child of 1110
+Number of steps for 10 12 -1
+Going to process in 12 12 child of 1110
+Number of steps for 12 12 -1
+Going to process in 10 8 child of 1110
+Number of steps for 10 8 -1
+Going to process in 12 8 child of 1110
+Number of steps for 12 8 -1
+Number of steps for 11 10 -1
+Going to process in 11 12 child of 911
+Number of steps for 11 12 -1
+Going to process in 8 13 child of 911
+Number of steps for 8 13 -1
+Going to process in 10 13 child of 911
+Number of steps for 10 13 -1
+Going to process in 8 9 child of 911
+Number of steps for 8 9 -1
+Going to process in 10 9 child of 911
+Number of steps for 10 9 -1
+Number of steps for 9 11 -1
+Going to process in 9 13 child of 1112
+Number of steps for 9 13 -1
+Going to process in 13 11 child of 1112
+Number of steps for 13 11 -1
+Going to process in 13 13 child of 1112
+Number of steps for 13 13 -1
+Going to process in 10 14 child of 1112
+Number of steps for 10 14 -1
+Going to process in 12 14 child of 1112
+Number of steps for 12 14 -1
+Going to process in 10 10 child of 1112
+Number of steps for 10 10 -1
+Going to process in 12 10 child of 1112
+Number of steps for 12 10 -1
+Number of steps for 11 12 -1
+Going to process in 11 14 child of 1313
+Number of steps for 11 14 -1
+Going to process in 12 15 child of 1313
+Number of steps for 12 15 -1
+Going to process in 14 15 child of 1313
+Number of steps for 14 15 -1
+Going to process in 12 11 child of 1313
+Number of steps for 12 11 -1
+Going to process in 14 11 child of 1313
+Number of steps for 14 11 -1
+Number of steps for 13 13 -1
+Going to process in 13 9 child of 1411
+Number of steps for 13 9 -1
+Number of steps for 14 11 -1
+Going to process in 14 13 child of 1212
+Number of steps for 14 13 -1
+Going to process in 11 14 child of 1212
+Number of steps for 11 14 -1
+Going to process in 13 14 child of 1212
+Number of steps for 13 14 -1
+Going to process in 11 10 child of 1212
+Number of steps for 11 10 -1
+Going to process in 13 10 child of 1212
+Number of steps for 13 10 -1
+Number of steps for 12 12 -1
+Going to process in 12 14 child of 1013
+Number of steps for 12 14 -1
+Going to process in 9 15 child of 1013
+Number of steps for 9 15 -1
+Going to process in 11 15 child of 1013
+Number of steps for 11 15 -1
+Going to process in 9 11 child of 1013
+Number of steps for 9 11 -1
+Going to process in 11 11 child of 1013
+Number of steps for 11 11 -1
+Number of steps for 10 13 -1
+Going to process in 10 15 child of 1214
+Number of steps for 10 15 -1
+Going to process in 14 13 child of 1214
+Number of steps for 14 13 -1
+Going to process in 14 15 child of 1214
+Number of steps for 14 15 -1
+Going to process in 11 16 child of 1214
+Number of steps for 11 16 -1
+Going to process in 13 16 child of 1214
+Number of steps for 13 16 -1
+Going to process in 11 12 child of 1214
+Number of steps for 11 12 -1
+Going to process in 13 12 child of 1214
+Number of steps for 13 12 -1
+Number of steps for 12 14 -1
+Going to process in 12 16 child of 1015
+Number of steps for 12 16 -1
+Going to process in 9 17 child of 1015
+Number of steps for 9 17 -1
+Going to process in 11 17 child of 1015
+Number of steps for 11 17 -1
+Going to process in 9 13 child of 1015
+Number of steps for 9 13 -1
+Going to process in 11 13 child of 1015
+Number of steps for 11 13 -1
+Number of steps for 10 15 -1
+Going to process in 10 17 child of 816
+Number of steps for 10 17 -1
+Going to process in 7 14 child of 816
+Number of steps for 7 14 -1
+Going to process in 9 14 child of 816
+Number of steps for 9 14 -1
+Number of steps for 8 16 -1
+Going to process in 5 15 child of 617
+Number of steps for 5 15 -1
+Going to process in 7 15 child of 617
+Number of steps for 7 15 -1
+Number of steps for 6 17 -1
+Going to process in 3 14 child of 416
+Number of steps for 3 14 -1
+Going to process in 5 14 child of 416
+Number of steps for 5 14 -1
+Number of steps for 4 16 -1
+Going to process in 8 14 child of 615
+Number of steps for 8 14 -1
+Going to process in 8 16 child of 615
+Number of steps for 8 16 -1
+Going to process in 5 17 child of 615
+Number of steps for 5 17 -1
+Going to process in 7 17 child of 615
+Number of steps for 7 17 -1
+Going to process in 5 13 child of 615
+Number of steps for 5 13 -1
+Going to process in 7 13 child of 615
+Number of steps for 7 13 -1
+Number of steps for 6 15 -1
+Going to process in 8 15 child of 717
+Number of steps for 8 15 -1
+Number of steps for 7 17 -1
+Going to process in 11 15 child of 916
+Number of steps for 11 15 -1
+Going to process in 11 17 child of 916
+Number of steps for 11 17 -1
+Going to process in 8 14 child of 916
+Number of steps for 8 14 -1
+Going to process in 10 14 child of 916
+Number of steps for 10 14 -1
+Number of steps for 9 16 -1
+Going to process in 13 14 child of 1115
+Number of steps for 13 14 -1
+Going to process in 13 16 child of 1115
+Number of steps for 13 16 -1
+Going to process in 10 17 child of 1115
+Number of steps for 10 17 -1
+Going to process in 12 17 child of 1115
+Number of steps for 12 17 -1
+Going to process in 10 13 child of 1115
+Number of steps for 10 13 -1
+Going to process in 12 13 child of 1115
+Number of steps for 12 13 -1
+Number of steps for 11 15 -1
+Going to process in 8 16 child of 914
+Number of steps for 8 16 -1
+Going to process in 10 16 child of 914
+Number of steps for 10 16 -1
+Going to process in 8 12 child of 914
+Number of steps for 8 12 -1
+Going to process in 10 12 child of 914
+Number of steps for 10 12 -1
+Number of steps for 9 14 -1
+Going to process in 13 12 child of 1113
+Number of steps for 13 12 -1
+Going to process in 13 14 child of 1113
+Number of steps for 13 14 -1
+Going to process in 10 15 child of 1113
+Number of steps for 10 15 -1
+Going to process in 12 15 child of 1113
+Number of steps for 12 15 -1
+Going to process in 10 11 child of 1113
+Number of steps for 10 11 -1
+Going to process in 12 11 child of 1113
+Number of steps for 12 11 -1
+Number of steps for 11 13 -1
+Going to process in 8 14 child of 912
+Number of steps for 8 14 -1
+Going to process in 10 14 child of 912
+Number of steps for 10 14 -1
+Going to process in 8 10 child of 912
+Number of steps for 8 10 -1
+Going to process in 10 10 child of 912
+Number of steps for 10 10 -1
+Number of steps for 9 12 -1
+Going to process in 13 10 child of 1111
+Number of steps for 13 10 -1
+Going to process in 13 12 child of 1111
+Number of steps for 13 12 -1
+Going to process in 10 13 child of 1111
+Number of steps for 10 13 -1
+Going to process in 12 13 child of 1111
+Number of steps for 12 13 -1
+Going to process in 10 9 child of 1111
+Number of steps for 10 9 -1
+Going to process in 12 9 child of 1111
+Number of steps for 12 9 -1
+Number of steps for 11 11 -1
+Going to process in 8 12 child of 910
+Number of steps for 8 12 -1
+Going to process in 10 12 child of 910
+Number of steps for 10 12 -1
+Going to process in 8 8 child of 910
+Number of steps for 8 8 -1
+Going to process in 10 8 child of 910
+Number of steps for 10 8 -1
+Number of steps for 9 10 -1
+Going to process in 13 8 child of 119
+Number of steps for 13 8 -1
+Going to process in 13 10 child of 119
+Number of steps for 13 10 -1
+Going to process in 10 11 child of 119
+Number of steps for 10 11 -1
+Going to process in 12 11 child of 119
+Number of steps for 12 11 -1
+Going to process in 10 7 child of 119
+Number of steps for 10 7 -1
+Going to process in 12 7 child of 119
+Number of steps for 12 7 -1
+Number of steps for 11 9 -1
+Going to process in 11 11 child of 1310
+Number of steps for 11 11 -1
+Going to process in 12 12 child of 1310
+Number of steps for 12 12 -1
+Going to process in 14 12 child of 1310
+Number of steps for 14 12 -1
+Going to process in 12 8 child of 1310
+Number of steps for 12 8 -1
+Going to process in 14 8 child of 1310
+Number of steps for 14 8 -1
+Number of steps for 13 10 -1
+Going to process in 13 6 child of 148
+Going to process in 11 5 child of 136
+Number of steps for 11 5 -1
+Going to process in 11 7 child of 136
+Number of steps for 11 7 -1
+Going to process in 12 8 child of 136
+Number of steps for 12 8 -1
+Going to process in 14 8 child of 136
+Number of steps for 14 8 -1
+Going to process in 12 4 child of 136
+Number of steps for 12 4 -1
+Going to process in 14 4 child of 136
+Going to process in 12 3 child of 144
+Number of steps for 12 3 -1
+Going to process in 12 5 child of 144
+Number of steps for 12 5 -1
+Going to process in 13 6 child of 144
+Number of steps for 13 6 -1
+Going to process in 13 2 child of 144
+Going to process in 11 1 child of 132
+Number of steps for 11 1 -1
+Going to process in 11 3 child of 132
+Number of steps for 11 3 -1
+Going to process in 12 4 child of 132
+Number of steps for 12 4 -1
+Going to process in 14 4 child of 132
+Number of steps for 14 4 -1
+Number of steps for 13 2 -1
+Number of steps for 14 4 -1
+Number of steps for 13 6 -1
+Number of steps for 14 8 -1
+Going to process in 14 10 child of 129
+Number of steps for 14 10 -1
+Going to process in 11 11 child of 129
+Number of steps for 11 11 -1
+Going to process in 13 11 child of 129
+Number of steps for 13 11 -1
+Going to process in 11 7 child of 129
+Number of steps for 11 7 -1
+Going to process in 13 7 child of 129
+Number of steps for 13 7 -1
+Number of steps for 12 9 -1
+Going to process in 12 11 child of 1010
+Number of steps for 12 11 -1
+Going to process in 9 12 child of 1010
+Number of steps for 9 12 -1
+Going to process in 11 12 child of 1010
+Number of steps for 11 12 -1
+Going to process in 9 8 child of 1010
+Number of steps for 9 8 -1
+Going to process in 11 8 child of 1010
+Number of steps for 11 8 -1
+Number of steps for 10 10 -1
+Going to process in 10 12 child of 811
+Number of steps for 10 12 -1
+Going to process in 7 13 child of 811
+Number of steps for 7 13 -1
+Going to process in 9 13 child of 811
+Number of steps for 9 13 -1
+Going to process in 7 9 child of 811
+Number of steps for 7 9 -1
+Going to process in 9 9 child of 811
+Number of steps for 9 9 -1
+Number of steps for 8 11 -1
+Going to process in 8 13 child of 612
+Number of steps for 8 13 -1
+Going to process in 5 14 child of 612
+Number of steps for 5 14 -1
+Going to process in 7 14 child of 612
+Number of steps for 7 14 -1
+Going to process in 5 10 child of 612
+Number of steps for 5 10 -1
+Going to process in 7 10 child of 612
+Number of steps for 7 10 -1
+Number of steps for 6 12 -1
+Going to process in 6 14 child of 813
+Number of steps for 6 14 -1
+Going to process in 10 12 child of 813
+Number of steps for 10 12 -1
+Going to process in 10 14 child of 813
+Number of steps for 10 14 -1
+Going to process in 7 15 child of 813
+Number of steps for 7 15 -1
+Going to process in 9 15 child of 813
+Number of steps for 9 15 -1
+Going to process in 7 11 child of 813
+Number of steps for 7 11 -1
+Going to process in 9 11 child of 813
+Number of steps for 9 11 -1
+Number of steps for 8 13 -1
+Going to process in 8 15 child of 614
+Number of steps for 8 15 -1
+Going to process in 5 16 child of 614
+Number of steps for 5 16 -1
+Going to process in 7 16 child of 614
+Number of steps for 7 16 -1
+Going to process in 5 12 child of 614
+Number of steps for 5 12 -1
+Going to process in 7 12 child of 614
+Number of steps for 7 12 -1
+Number of steps for 6 14 -1
+Going to process in 6 16 child of 815
+Number of steps for 6 16 -1
+Going to process in 10 14 child of 815
+Number of steps for 10 14 -1
+Going to process in 10 16 child of 815
+Number of steps for 10 16 -1
+Going to process in 7 17 child of 815
+Number of steps for 7 17 -1
+Going to process in 9 17 child of 815
+Number of steps for 9 17 -1
+Going to process in 7 13 child of 815
+Number of steps for 7 13 -1
+Going to process in 9 13 child of 815
+Number of steps for 9 13 -1
+Number of steps for 8 15 -1
+Going to process in 8 17 child of 616
+Number of steps for 8 17 -1
+Going to process in 5 14 child of 616
+Number of steps for 5 14 -1
+Going to process in 7 14 child of 616
+Number of steps for 7 14 -1
+Number of steps for 6 16 -1
+Going to process in 3 15 child of 417
+Number of steps for 3 15 -1
+Going to process in 5 15 child of 417
+Number of steps for 5 15 -1
+Number of steps for 4 17 -1
+Going to process in 1 14 child of 216
+Number of steps for 1 14 -1
+Going to process in 3 14 child of 216
+Number of steps for 3 14 -1
+Number of steps for 2 16 -1
+Going to process in 6 14 child of 415
+Number of steps for 6 14 -1
+Going to process in 6 16 child of 415
+Number of steps for 6 16 -1
+Going to process in 3 17 child of 415
+Number of steps for 3 17 -1
+Going to process in 5 17 child of 415
+Number of steps for 5 17 -1
+Going to process in 3 13 child of 415
+Number of steps for 3 13 -1
+Going to process in 5 13 child of 415
+Number of steps for 5 13 -1
+Number of steps for 4 15 -1
+Going to process in 6 15 child of 517
+Number of steps for 6 15 -1
+Number of steps for 5 17 -1
+Going to process in 9 15 child of 716
+Number of steps for 9 15 -1
+Going to process in 9 17 child of 716
+Number of steps for 9 17 -1
+Going to process in 6 14 child of 716
+Number of steps for 6 14 -1
+Going to process in 8 14 child of 716
+Number of steps for 8 14 -1
+Number of steps for 7 16 -1
+Going to process in 4 17 child of 515
+Number of steps for 4 17 -1
+Going to process in 6 17 child of 515
+Number of steps for 6 17 -1
+Going to process in 4 13 child of 515
+Number of steps for 4 13 -1
+Going to process in 6 13 child of 515
+Number of steps for 6 13 -1
+Number of steps for 5 15 -1
+Going to process in 9 13 child of 714
+Number of steps for 9 13 -1
+Going to process in 9 15 child of 714
+Number of steps for 9 15 -1
+Going to process in 6 16 child of 714
+Number of steps for 6 16 -1
+Going to process in 8 16 child of 714
+Number of steps for 8 16 -1
+Going to process in 6 12 child of 714
+Number of steps for 6 12 -1
+Going to process in 8 12 child of 714
+Number of steps for 8 12 -1
+Number of steps for 7 14 -1
+Going to process in 4 15 child of 513
+Number of steps for 4 15 -1
+Going to process in 6 15 child of 513
+Number of steps for 6 15 -1
+Going to process in 4 11 child of 513
+Number of steps for 4 11 -1
+Going to process in 6 11 child of 513
+Number of steps for 6 11 -1
+Number of steps for 5 13 -1
+Going to process in 9 11 child of 712
+Number of steps for 9 11 -1
+Going to process in 9 13 child of 712
+Number of steps for 9 13 -1
+Going to process in 6 14 child of 712
+Number of steps for 6 14 -1
+Going to process in 8 14 child of 712
+Number of steps for 8 14 -1
+Going to process in 6 10 child of 712
+Number of steps for 6 10 -1
+Going to process in 8 10 child of 712
+Number of steps for 8 10 -1
+Number of steps for 7 12 -1
+Going to process in 4 13 child of 511
+Number of steps for 4 13 -1
+Going to process in 6 13 child of 511
+Number of steps for 6 13 -1
+Going to process in 4 9 child of 511
+Number of steps for 4 9 -1
+Going to process in 6 9 child of 511
+Number of steps for 6 9 -1
+Number of steps for 5 11 -1
+Going to process in 9 9 child of 710
+Number of steps for 9 9 -1
+Going to process in 9 11 child of 710
+Number of steps for 9 11 -1
+Going to process in 6 12 child of 710
+Number of steps for 6 12 -1
+Going to process in 8 12 child of 710
+Number of steps for 8 12 -1
+Going to process in 6 8 child of 710
+Number of steps for 6 8 -1
+Going to process in 8 8 child of 710
+Number of steps for 8 8 -1
+Number of steps for 7 10 -1
+Going to process in 4 11 child of 59
+Number of steps for 4 11 -1
+Going to process in 6 11 child of 59
+Number of steps for 6 11 -1
+Going to process in 4 7 child of 59
+Number of steps for 4 7 -1
+Going to process in 6 7 child of 59
+Number of steps for 6 7 -1
+Number of steps for 5 9 -1
+Going to process in 9 7 child of 78
+Number of steps for 9 7 -1
+Going to process in 9 9 child of 78
+Number of steps for 9 9 -1
+Going to process in 6 10 child of 78
+Number of steps for 6 10 -1
+Going to process in 8 10 child of 78
+Number of steps for 8 10 -1
+Going to process in 6 6 child of 78
+Number of steps for 6 6 -1
+Going to process in 8 6 child of 78
+Number of steps for 8 6 -1
+Number of steps for 7 8 -1
+Going to process in 7 10 child of 99
+Number of steps for 7 10 -1
+Going to process in 11 8 child of 99
+Number of steps for 11 8 -1
+Going to process in 11 10 child of 99
+Number of steps for 11 10 -1
+Going to process in 8 11 child of 99
+Number of steps for 8 11 -1
+Going to process in 10 11 child of 99
+Number of steps for 10 11 -1
+Going to process in 8 7 child of 99
+Number of steps for 8 7 -1
+Going to process in 10 7 child of 99
+Number of steps for 10 7 -1
+Number of steps for 9 9 -1
+Going to process in 13 7 child of 118
+Number of steps for 13 7 -1
+Going to process in 13 9 child of 118
+Number of steps for 13 9 -1
+Going to process in 10 10 child of 118
+Number of steps for 10 10 -1
+Going to process in 12 10 child of 118
+Number of steps for 12 10 -1
+Going to process in 10 6 child of 118
+Number of steps for 10 6 -1
+Going to process in 12 6 child of 118
+Number of steps for 12 6 -1
+Number of steps for 11 8 -1
+Going to process in 11 10 child of 139
+Number of steps for 11 10 -1
+Going to process in 12 11 child of 139
+Number of steps for 12 11 -1
+Going to process in 14 11 child of 139
+Number of steps for 14 11 -1
+Going to process in 12 7 child of 139
+Number of steps for 12 7 -1
+Going to process in 14 7 child of 139
+Number of steps for 14 7 -1
+Number of steps for 13 9 -1
+Going to process in 13 5 child of 147
+Number of steps for 13 5 -1
+Number of steps for 14 7 -1
+Going to process in 12 3 child of 135
+Number of steps for 12 3 -1
+Going to process in 14 3 child of 135
+Number of steps for 14 3 -1
+Number of steps for 13 5 -1
+Going to process in 13 1 child of 143
+Going to process in 11 2 child of 131
+Number of steps for 11 2 -1
+Going to process in 12 3 child of 131
+Number of steps for 12 3 -1
+Going to process in 14 3 child of 131
+Number of steps for 14 3 -1
+Number of steps for 13 1 -1
+Number of steps for 14 3 -1
+Going to process in 11 4 child of 122
+Number of steps for 11 4 -1
+Going to process in 13 4 child of 122
+Number of steps for 13 4 -1
+Number of steps for 12 2 -1
+Going to process in 9 3 child of 101
+Number of steps for 9 3 -1
+Going to process in 11 3 child of 101
+Number of steps for 11 3 -1
+Number of steps for 10 1 -1
+Number of steps for 9 3 -1
+Going to process in 9 5 child of 74
+Going to process in 7 4 child of 95
+Number of steps for 7 4 -1
+Going to process in 7 6 child of 95
+Number of steps for 7 6 -1
+Going to process in 11 4 child of 95
+Number of steps for 11 4 -1
+Going to process in 11 6 child of 95
+Number of steps for 11 6 -1
+Going to process in 8 7 child of 95
+Number of steps for 8 7 -1
+Going to process in 10 7 child of 95
+Number of steps for 10 7 -1
+Going to process in 8 3 child of 95
+Number of steps for 8 3 -1
+Going to process in 10 3 child of 95
+Number of steps for 10 3 -1
+Number of steps for 9 5 -1
+Going to process in 6 6 child of 74
+Number of steps for 6 6 -1
+Going to process in 8 6 child of 74
+Number of steps for 8 6 -1
+Going to process in 6 2 child of 74
+Number of steps for 6 2 -1
+Going to process in 8 2 child of 74
+Number of steps for 8 2 -1
+Number of steps for 7 4 -1
+Going to process in 7 6 child of 55
+Number of steps for 7 6 -1
+Going to process in 4 7 child of 55
+Number of steps for 4 7 -1
+Going to process in 6 7 child of 55
+Number of steps for 6 7 -1
+Going to process in 4 3 child of 55
+Number of steps for 4 3 -1
+Going to process in 6 3 child of 55
+Number of steps for 6 3 -1
+Number of steps for 5 5 -1
+Going to process in 5 7 child of 76
+Number of steps for 5 7 -1
+Going to process in 9 5 child of 76
+Number of steps for 9 5 -1
+Going to process in 9 7 child of 76
+Number of steps for 9 7 -1
+Going to process in 6 8 child of 76
+Number of steps for 6 8 -1
+Going to process in 8 8 child of 76
+Number of steps for 8 8 -1
+Going to process in 6 4 child of 76
+Number of steps for 6 4 -1
+Going to process in 8 4 child of 76
+Number of steps for 8 4 -1
+Number of steps for 7 6 -1
+Going to process in 7 8 child of 97
+Number of steps for 7 8 -1
+Going to process in 11 6 child of 97
+Number of steps for 11 6 -1
+Going to process in 11 8 child of 97
+Number of steps for 11 8 -1
+Going to process in 8 9 child of 97
+Number of steps for 8 9 -1
+Going to process in 10 9 child of 97
+Number of steps for 10 9 -1
+Going to process in 8 5 child of 97
+Number of steps for 8 5 -1
+Going to process in 10 5 child of 97
+Number of steps for 10 5 -1
+Number of steps for 9 7 -1
+Going to process in 11 7 child of 105
+Number of steps for 11 7 -1
+Going to process in 9 3 child of 105
+Number of steps for 9 3 -1
+Going to process in 11 3 child of 105
+Number of steps for 11 3 -1
+Number of steps for 10 5 -1
+Going to process in 10 7 child of 126
+Number of steps for 10 7 -1
+Going to process in 14 5 child of 126
+Number of steps for 14 5 -1
+Going to process in 14 7 child of 126
+Number of steps for 14 7 -1
+Going to process in 11 8 child of 126
+Number of steps for 11 8 -1
+Going to process in 13 8 child of 126
+Number of steps for 13 8 -1
+Going to process in 11 4 child of 126
+Number of steps for 11 4 -1
+Going to process in 13 4 child of 126
+Number of steps for 13 4 -1
+Number of steps for 12 6 -1
+Going to process in 12 8 child of 107
+Number of steps for 12 8 -1
+Going to process in 9 9 child of 107
+Number of steps for 9 9 -1
+Going to process in 11 9 child of 107
+Number of steps for 11 9 -1
+Going to process in 9 5 child of 107
+Number of steps for 9 5 -1
+Going to process in 11 5 child of 107
+Number of steps for 11 5 -1
+Number of steps for 10 7 -1
+Going to process in 10 9 child of 128
+Number of steps for 10 9 -1
+Going to process in 14 7 child of 128
+Number of steps for 14 7 -1
+Going to process in 14 9 child of 128
+Number of steps for 14 9 -1
+Going to process in 11 10 child of 128
+Number of steps for 11 10 -1
+Going to process in 13 10 child of 128
+Number of steps for 13 10 -1
+Going to process in 11 6 child of 128
+Number of steps for 11 6 -1
+Going to process in 13 6 child of 128
+Number of steps for 13 6 -1
+Number of steps for 12 8 -1
+Going to process in 12 10 child of 109
+Number of steps for 12 10 -1
+Going to process in 9 11 child of 109
+Number of steps for 9 11 -1
+Going to process in 11 11 child of 109
+Number of steps for 11 11 -1
+Going to process in 9 7 child of 109
+Number of steps for 9 7 -1
+Going to process in 11 7 child of 109
+Number of steps for 11 7 -1
+Number of steps for 10 9 -1
+Going to process in 10 11 child of 1210
+Number of steps for 10 11 -1
+Going to process in 14 9 child of 1210
+Number of steps for 14 9 -1
+Going to process in 14 11 child of 1210
+Number of steps for 14 11 -1
+Going to process in 11 12 child of 1210
+Number of steps for 11 12 -1
+Going to process in 13 12 child of 1210
+Number of steps for 13 12 -1
+Going to process in 11 8 child of 1210
+Number of steps for 11 8 -1
+Going to process in 13 8 child of 1210
+Number of steps for 13 8 -1
+Number of steps for 12 10 -1
+Going to process in 12 12 child of 1011
+Number of steps for 12 12 -1
+Going to process in 9 13 child of 1011
+Number of steps for 9 13 -1
+Going to process in 11 13 child of 1011
+Number of steps for 11 13 -1
+Going to process in 9 9 child of 1011
+Number of steps for 9 9 -1
+Going to process in 11 9 child of 1011
+Number of steps for 11 9 -1
+Number of steps for 10 11 -1
+Going to process in 10 13 child of 812
+Number of steps for 10 13 -1
+Going to process in 7 14 child of 812
+Number of steps for 7 14 -1
+Going to process in 9 14 child of 812
+Number of steps for 9 14 -1
+Going to process in 7 10 child of 812
+Number of steps for 7 10 -1
+Going to process in 9 10 child of 812
+Number of steps for 9 10 -1
+Number of steps for 8 12 -1
+Going to process in 5 13 child of 611
+Number of steps for 5 13 -1
+Going to process in 7 13 child of 611
+Number of steps for 7 13 -1
+Going to process in 5 9 child of 611
+Number of steps for 5 9 -1
+Going to process in 7 9 child of 611
+Number of steps for 7 9 -1
+Number of steps for 6 11 -1
+Going to process in 10 9 child of 810
+Number of steps for 10 9 -1
+Going to process in 10 11 child of 810
+Number of steps for 10 11 -1
+Going to process in 7 12 child of 810
+Number of steps for 7 12 -1
+Going to process in 9 12 child of 810
+Number of steps for 9 12 -1
+Going to process in 7 8 child of 810
+Number of steps for 7 8 -1
+Going to process in 9 8 child of 810
+Number of steps for 9 8 -1
+Number of steps for 8 10 -1
+Going to process in 5 11 child of 69
+Number of steps for 5 11 -1
+Going to process in 7 11 child of 69
+Number of steps for 7 11 -1
+Going to process in 5 7 child of 69
+Number of steps for 5 7 -1
+Going to process in 7 7 child of 69
+Number of steps for 7 7 -1
+Number of steps for 6 9 -1
+Going to process in 10 7 child of 88
+Number of steps for 10 7 -1
+Going to process in 10 9 child of 88
+Number of steps for 10 9 -1
+Going to process in 7 10 child of 88
+Number of steps for 7 10 -1
+Going to process in 9 10 child of 88
+Number of steps for 9 10 -1
+Going to process in 7 6 child of 88
+Number of steps for 7 6 -1
+Going to process in 9 6 child of 88
+Going to process in 7 5 child of 96
+Number of steps for 7 5 -1
+Going to process in 7 7 child of 96
+Number of steps for 7 7 -1
+Going to process in 11 5 child of 96
+Number of steps for 11 5 -1
+Going to process in 11 7 child of 96
+Number of steps for 11 7 -1
+Going to process in 8 8 child of 96
+Number of steps for 8 8 -1
+Going to process in 10 8 child of 96
+Number of steps for 10 8 -1
+Going to process in 8 4 child of 96
+Number of steps for 8 4 -1
+Going to process in 10 4 child of 96
+Number of steps for 10 4 -1
+Number of steps for 9 6 -1
+Number of steps for 8 8 -1
+Going to process in 5 9 child of 67
+Number of steps for 5 9 -1
+Going to process in 7 9 child of 67
+Number of steps for 7 9 -1
+Going to process in 5 5 child of 67
+Number of steps for 5 5 -1
+Going to process in 7 5 child of 67
+Number of steps for 7 5 -1
+Number of steps for 6 7 -1
+Going to process in 10 5 child of 86
+Number of steps for 10 5 -1
+Going to process in 10 7 child of 86
+Number of steps for 10 7 -1
+Going to process in 7 8 child of 86
+Number of steps for 7 8 -1
+Going to process in 9 8 child of 86
+Number of steps for 9 8 -1
+Going to process in 7 4 child of 86
+Number of steps for 7 4 -1
+Going to process in 9 4 child of 86
+Going to process in 7 3 child of 94
+Number of steps for 7 3 -1
+Going to process in 7 5 child of 94
+Number of steps for 7 5 -1
+Going to process in 11 3 child of 94
+Number of steps for 11 3 -1
+Going to process in 11 5 child of 94
+Number of steps for 11 5 -1
+Going to process in 8 6 child of 94
+Number of steps for 8 6 -1
+Going to process in 10 6 child of 94
+Number of steps for 10 6 -1
+Going to process in 8 2 child of 94
+Number of steps for 8 2 -1
+Going to process in 10 2 child of 94
+Number of steps for 10 2 -1
+Number of steps for 9 4 -1
+Number of steps for 8 6 -1
+Going to process in 5 7 child of 65
+Number of steps for 5 7 -1
+Going to process in 7 7 child of 65
+Number of steps for 7 7 -1
+Going to process in 5 3 child of 65
+Number of steps for 5 3 -1
+Going to process in 7 3 child of 65
+Number of steps for 7 3 -1
+Number of steps for 6 5 -1
+Going to process in 10 3 child of 84
+Number of steps for 10 3 -1
+Going to process in 10 5 child of 84
+Number of steps for 10 5 -1
+Going to process in 7 6 child of 84
+Number of steps for 7 6 -1
+Going to process in 9 6 child of 84
+Number of steps for 9 6 -1
+Going to process in 7 2 child of 84
+Number of steps for 7 2 -1
+Going to process in 9 2 child of 84
+Number of steps for 9 2 -1
+Number of steps for 8 4 -1
+Going to process in 5 5 child of 63
+Number of steps for 5 5 -1
+Going to process in 7 5 child of 63
+Number of steps for 7 5 -1
+Going to process in 5 1 child of 63
+Number of steps for 5 1 -1
+Going to process in 7 1 child of 63
+Number of steps for 7 1 -1
+Number of steps for 6 3 -1
+Going to process in 10 1 child of 82
+Number of steps for 10 1 -1
+Going to process in 10 3 child of 82
+Number of steps for 10 3 -1
+Going to process in 7 4 child of 82
+Number of steps for 7 4 -1
+Going to process in 9 4 child of 82
+Number of steps for 9 4 -1
+Number of steps for 8 2 -1
+Going to process in 8 4 child of 103
+Number of steps for 8 4 -1
+Going to process in 12 2 child of 103
+Number of steps for 12 2 -1
+Going to process in 12 4 child of 103
+Number of steps for 12 4 -1
+Going to process in 9 5 child of 103
+Number of steps for 9 5 -1
+Going to process in 11 5 child of 103
+Number of steps for 11 5 -1
+Going to process in 9 1 child of 103
+Going to process in 7 2 child of 91
+Number of steps for 7 2 -1
+Going to process in 11 2 child of 91
+Number of steps for 11 2 -1
+Going to process in 8 3 child of 91
+Number of steps for 8 3 -1
+Going to process in 10 3 child of 91
+Number of steps for 10 3 -1
+Number of steps for 9 1 -1
+Going to process in 11 1 child of 103
+Number of steps for 11 1 -1
+Number of steps for 10 3 -1
+Going to process in 10 5 child of 124
+Number of steps for 10 5 -1
+Going to process in 14 3 child of 124
+Number of steps for 14 3 -1
+Going to process in 14 5 child of 124
+Number of steps for 14 5 -1
+Going to process in 11 6 child of 124
+Number of steps for 11 6 -1
+Going to process in 13 6 child of 124
+Number of steps for 13 6 -1
+Going to process in 11 2 child of 124
+Number of steps for 11 2 -1
+Going to process in 13 2 child of 124
+Number of steps for 13 2 -1
+Number of steps for 12 4 -1
+Going to process in 12 6 child of 145
+Number of steps for 12 6 -1
+Going to process in 13 7 child of 145
+Number of steps for 13 7 -1
+Going to process in 13 3 child of 145
+Number of steps for 13 3 -1
+Number of steps for 14 5 -1
+Going to process in 12 1 child of 133
+Number of steps for 12 1 -1
+Going to process in 14 1 child of 133
+Number of steps for 14 1 -1
+Number of steps for 13 3 -1
+Number of steps for 12 1 -1
+Going to process in 12 3 child of 142
+Number of steps for 12 3 -1
+Going to process in 13 4 child of 142
+Number of steps for 13 4 -1
+Number of steps for 14 2 -1
+Going to process in 14 4 child of 123
+Number of steps for 14 4 -1
+Going to process in 11 5 child of 123
+Number of steps for 11 5 -1
+Going to process in 13 5 child of 123
+Number of steps for 13 5 -1
+Going to process in 11 1 child of 123
+Number of steps for 11 1 -1
+Going to process in 13 1 child of 123
+Number of steps for 13 1 -1
+Number of steps for 12 3 -1
+Going to process in 12 5 child of 104
+Number of steps for 12 5 -1
+Going to process in 9 6 child of 104
+Number of steps for 9 6 -1
+Going to process in 11 6 child of 104
+Number of steps for 11 6 -1
+Going to process in 9 2 child of 104
+Number of steps for 9 2 -1
+Going to process in 11 2 child of 104
+Number of steps for 11 2 -1
+Number of steps for 10 4 -1
+Going to process in 10 6 child of 125
+Number of steps for 10 6 -1
+Going to process in 14 4 child of 125
+Number of steps for 14 4 -1
+Going to process in 14 6 child of 125
+Number of steps for 14 6 -1
+Going to process in 11 7 child of 125
+Number of steps for 11 7 -1
+Going to process in 13 7 child of 125
+Number of steps for 13 7 -1
+Going to process in 11 3 child of 125
+Number of steps for 11 3 -1
+Going to process in 13 3 child of 125
+Number of steps for 13 3 -1
+Number of steps for 12 5 -1
+Going to process in 12 7 child of 106
+Number of steps for 12 7 -1
+Going to process in 9 8 child of 106
+Number of steps for 9 8 -1
+Going to process in 11 8 child of 106
+Number of steps for 11 8 -1
+Going to process in 9 4 child of 106
+Number of steps for 9 4 -1
+Going to process in 11 4 child of 106
+Number of steps for 11 4 -1
+Number of steps for 10 6 -1
+Going to process in 10 8 child of 127
+Number of steps for 10 8 -1
+Going to process in 14 6 child of 127
+Number of steps for 14 6 -1
+Going to process in 14 8 child of 127
+Number of steps for 14 8 -1
+Going to process in 11 9 child of 127
+Number of steps for 11 9 -1
+Going to process in 13 9 child of 127
+Number of steps for 13 9 -1
+Going to process in 11 5 child of 127
+Number of steps for 11 5 -1
+Going to process in 13 5 child of 127
+Number of steps for 13 5 -1
+Number of steps for 12 7 -1
+Going to process in 12 9 child of 108
+Number of steps for 12 9 -1
+Going to process in 9 10 child of 108
+Number of steps for 9 10 -1
+Going to process in 11 10 child of 108
+Number of steps for 11 10 -1
+Going to process in 9 6 child of 108
+Number of steps for 9 6 -1
+Going to process in 11 6 child of 108
+Number of steps for 11 6 -1
+Number of steps for 10 8 -1
+Going to process in 10 10 child of 89
+Number of steps for 10 10 -1
+Going to process in 7 11 child of 89
+Number of steps for 7 11 -1
+Going to process in 9 11 child of 89
+Number of steps for 9 11 -1
+Going to process in 7 7 child of 89
+Number of steps for 7 7 -1
+Going to process in 9 7 child of 89
+Number of steps for 9 7 -1
+Number of steps for 8 9 -1
+Going to process in 5 10 child of 68
+Number of steps for 5 10 -1
+Going to process in 7 10 child of 68
+Number of steps for 7 10 -1
+Going to process in 5 6 child of 68
+Number of steps for 5 6 -1
+Going to process in 7 6 child of 68
+Number of steps for 7 6 -1
+Number of steps for 6 8 -1
+Going to process in 10 6 child of 87
+Number of steps for 10 6 -1
+Going to process in 10 8 child of 87
+Number of steps for 10 8 -1
+Going to process in 7 9 child of 87
+Number of steps for 7 9 -1
+Going to process in 9 9 child of 87
+Number of steps for 9 9 -1
+Going to process in 7 5 child of 87
+Number of steps for 7 5 -1
+Going to process in 9 5 child of 87
+Number of steps for 9 5 -1
+Number of steps for 8 7 -1
+Going to process in 5 8 child of 66
+Number of steps for 5 8 -1
+Going to process in 7 8 child of 66
+Number of steps for 7 8 -1
+Going to process in 5 4 child of 66
+Number of steps for 5 4 -1
+Going to process in 7 4 child of 66
+Number of steps for 7 4 -1
+Number of steps for 6 6 -1
+Going to process in 10 4 child of 85
+Number of steps for 10 4 -1
+Going to process in 10 6 child of 85
+Number of steps for 10 6 -1
+Going to process in 7 7 child of 85
+Number of steps for 7 7 -1
+Going to process in 9 7 child of 85
+Number of steps for 9 7 -1
+Going to process in 7 3 child of 85
+Number of steps for 7 3 -1
+Going to process in 9 3 child of 85
+Number of steps for 9 3 -1
+Number of steps for 8 5 -1
+Going to process in 5 6 child of 64
+Number of steps for 5 6 -1
+Going to process in 7 6 child of 64
+Number of steps for 7 6 -1
+Going to process in 5 2 child of 64
+Number of steps for 5 2 -1
+Going to process in 7 2 child of 64
+Number of steps for 7 2 -1
+Number of steps for 6 4 -1
+Going to process in 10 2 child of 83
+Number of steps for 10 2 -1
+Going to process in 10 4 child of 83
+Number of steps for 10 4 -1
+Going to process in 7 5 child of 83
+Number of steps for 7 5 -1
+Going to process in 9 5 child of 83
+Number of steps for 9 5 -1
+Going to process in 7 1 child of 83
+Number of steps for 7 1 -1
+Going to process in 9 1 child of 83
+Number of steps for 9 1 -1
+Number of steps for 8 3 -1
+Going to process in 12 1 child of 102
+Number of steps for 12 1 -1
+Going to process in 12 3 child of 102
+Number of steps for 12 3 -1
+Going to process in 9 4 child of 102
+Number of steps for 9 4 -1
+Going to process in 11 4 child of 102
+Number of steps for 11 4 -1
+Number of steps for 10 2 -1
+Going to process in 7 3 child of 81
+Number of steps for 7 3 -1
+Going to process in 9 3 child of 81
+Number of steps for 9 3 -1
+Number of steps for 8 1 -1
+Going to process in 8 3 child of 62
+Number of steps for 8 3 -1
+Going to process in 5 4 child of 62
+Number of steps for 5 4 -1
+Going to process in 7 4 child of 62
+Number of steps for 7 4 -1
+Number of steps for 6 2 -1
+Going to process in 3 3 child of 41
+Number of steps for 3 3 -1
+Going to process in 5 3 child of 41
+Number of steps for 5 3 -1
+Number of steps for 4 1 -1
+Going to process in 4 3 child of 22
+Number of steps for 4 3 -1
+Going to process in 1 4 child of 22
+Number of steps for 1 4 -1
+Going to process in 3 4 child of 22
+Number of steps for 3 4 -1
+Number of steps for 2 2 -1
+Going to process in 2 4 child of 43
+Number of steps for 2 4 -1
+Going to process in 6 2 child of 43
+Number of steps for 6 2 -1
+Going to process in 6 4 child of 43
+Number of steps for 6 4 -1
+Going to process in 3 5 child of 43
+Number of steps for 3 5 -1
+Going to process in 5 5 child of 43
+Number of steps for 5 5 -1
+Going to process in 3 1 child of 43
+Number of steps for 3 1 -1
+Going to process in 5 1 child of 43
+Number of steps for 5 1 -1
+Number of steps for 4 3 -1
+Going to process in 4 5 child of 24
+Number of steps for 4 5 -1
+Going to process in 1 6 child of 24
+Number of steps for 1 6 -1
+Going to process in 3 6 child of 24
+Number of steps for 3 6 -1
+Going to process in 1 2 child of 24
+Number of steps for 1 2 -1
+Going to process in 3 2 child of 24
+Number of steps for 3 2 -1
+Number of steps for 2 4 -1
+Going to process in 2 6 child of 45
+Number of steps for 2 6 -1
+Going to process in 6 4 child of 45
+Number of steps for 6 4 -1
+Going to process in 6 6 child of 45
+Number of steps for 6 6 -1
+Going to process in 3 7 child of 45
+Number of steps for 3 7 -1
+Going to process in 5 7 child of 45
+Number of steps for 5 7 -1
+Going to process in 3 3 child of 45
+Number of steps for 3 3 -1
+Going to process in 5 3 child of 45
+Number of steps for 5 3 -1
+Number of steps for 4 5 -1
+Going to process in 4 7 child of 26
+Number of steps for 4 7 -1
+Going to process in 1 8 child of 26
+Number of steps for 1 8 -1
+Going to process in 3 8 child of 26
+Number of steps for 3 8 -1
+Going to process in 1 4 child of 26
+Number of steps for 1 4 -1
+Going to process in 3 4 child of 26
+Number of steps for 3 4 -1
+Number of steps for 2 6 -1
+Going to process in 2 8 child of 47
+Number of steps for 2 8 -1
+Going to process in 6 6 child of 47
+Number of steps for 6 6 -1
+Going to process in 6 8 child of 47
+Number of steps for 6 8 -1
+Going to process in 3 9 child of 47
+Number of steps for 3 9 -1
+Going to process in 5 9 child of 47
+Number of steps for 5 9 -1
+Going to process in 3 5 child of 47
+Number of steps for 3 5 -1
+Going to process in 5 5 child of 47
+Number of steps for 5 5 -1
+Number of steps for 4 7 -1
+Going to process in 4 9 child of 28
+Number of steps for 4 9 -1
+Going to process in 1 10 child of 28
+Number of steps for 1 10 -1
+Going to process in 3 10 child of 28
+Number of steps for 3 10 -1
+Going to process in 1 6 child of 28
+Number of steps for 1 6 -1
+Going to process in 3 6 child of 28
+Number of steps for 3 6 -1
+Number of steps for 2 8 -1
+Going to process in 2 10 child of 49
+Number of steps for 2 10 0
+new steps for 4 9is 1
+Going to process in 6 8 child of 49
+Number of steps for 6 8 -1
+Going to process in 6 10 child of 49
+Number of steps for 6 10 -1
+Going to process in 3 11 child of 49
+Number of steps for 3 11 -1
+Going to process in 5 11 child of 49
+Number of steps for 5 11 -1
+Going to process in 3 7 child of 49
+Number of steps for 3 7 -1
+Going to process in 5 7 child of 49
+Number of steps for 5 7 -1
+Number of steps for 4 9 1
+new steps for 6 10is 2
+Going to process in 4 11 child of 610
+Number of steps for 4 11 -1
+Going to process in 8 9 child of 610
+Number of steps for 8 9 -1
+Going to process in 8 11 child of 610
+Number of steps for 8 11 -1
+Going to process in 5 12 child of 610
+Number of steps for 5 12 -1
+Going to process in 7 12 child of 610
+Number of steps for 7 12 -1
+Going to process in 5 8 child of 610
+Number of steps for 5 8 -1
+Going to process in 7 8 child of 610
+Number of steps for 7 8 -1
+Number of steps for 6 10 2
+Going to process in 6 12 child of 411
+Number of steps for 6 12 -1
+Going to process in 3 13 child of 411
+Number of steps for 3 13 -1
+Going to process in 5 13 child of 411
+Number of steps for 5 13 -1
+Going to process in 3 9 child of 411
+Number of steps for 3 9 -1
+Going to process in 5 9 child of 411
+Number of steps for 5 9 -1
+Number of steps for 4 11 1
+new steps for 2 12is 2
+Going to process in 4 13 child of 212
+Number of steps for 4 13 -1
+Going to process in 1 14 child of 212
+Number of steps for 1 14 -1
+Going to process in 3 14 child of 212
+Number of steps for 3 14 -1
+Going to process in 1 10 child of 212
+Number of steps for 1 10 -1
+Going to process in 3 10 child of 212
+Number of steps for 3 10 -1
+Number of steps for 2 12 2
+new steps for 4 13is 3
+Going to process in 2 14 child of 413
+Number of steps for 2 14 -1
+Going to process in 6 12 child of 413
+Number of steps for 6 12 -1
+Going to process in 6 14 child of 413
+Number of steps for 6 14 -1
+Going to process in 3 15 child of 413
+Number of steps for 3 15 -1
+Going to process in 5 15 child of 413
+Number of steps for 5 15 -1
+Going to process in 3 11 child of 413
+Number of steps for 3 11 -1
+Going to process in 5 11 child of 413
+Number of steps for 5 11 -1
+Number of steps for 4 13 3
+new steps for 2 14is 4
+Going to process in 4 15 child of 214
+Number of steps for 4 15 -1
+Going to process in 1 16 child of 214
+Number of steps for 1 16 -1
+Going to process in 3 16 child of 214
+Number of steps for 3 16 -1
+Going to process in 1 12 child of 214
+Number of steps for 1 12 -1
+Going to process in 3 12 child of 214
+Number of steps for 3 12 -1
+Number of steps for 2 14 4
+new steps for 1 16is 5
+Number of steps for 1 16 5
+new steps for 3 17is 6
+Going to process in 5 16 child of 317
+Number of steps for 5 16 -1
+Going to process in 2 15 child of 317
+Number of steps for 2 15 -1
+Going to process in 4 15 child of 317
+Number of steps for 4 15 -1
+Number of steps for 3 17 6
+new steps for 5 16is 7
+Going to process in 7 15 child of 516
+Number of steps for 7 15 -1
+Going to process in 7 17 child of 516
+Number of steps for 7 17 -1
+Going to process in 4 14 child of 516
+Number of steps for 4 14 -1
+Going to process in 6 14 child of 516
+Number of steps for 6 14 -1
+Number of steps for 5 16 7
+new steps for 7 15is 8
+Going to process in 9 14 child of 715
+Number of steps for 9 14 -1
+Going to process in 9 16 child of 715
+Number of steps for 9 16 -1
+Going to process in 6 17 child of 715
+Number of steps for 6 17 -1
+Going to process in 8 17 child of 715
+Number of steps for 8 17 -1
+Going to process in 6 13 child of 715
+Number of steps for 6 13 -1
+Going to process in 8 13 child of 715
+Number of steps for 8 13 -1
+Number of steps for 7 15 8
+new steps for 5 14is 9
+Going to process in 4 16 child of 514
+Number of steps for 4 16 -1
+Going to process in 6 16 child of 514
+Number of steps for 6 16 -1
+Going to process in 4 12 child of 514
+Number of steps for 4 12 -1
+Going to process in 6 12 child of 514
+Number of steps for 6 12 -1
+Number of steps for 5 14 9
+new steps for 7 13is 10
+Going to process in 9 12 child of 713
+Number of steps for 9 12 -1
+Going to process in 9 14 child of 713
+Number of steps for 9 14 -1
+Going to process in 6 15 child of 713
+Number of steps for 6 15 -1
+Going to process in 8 15 child of 713
+Number of steps for 8 15 -1
+Going to process in 6 11 child of 713
+Number of steps for 6 11 -1
+Going to process in 8 11 child of 713
+Number of steps for 8 11 -1
+Number of steps for 7 13 10
+new steps for 5 12is 11
+Going to process in 4 14 child of 512
+Number of steps for 4 14 -1
+Going to process in 6 14 child of 512
+Number of steps for 6 14 -1
+Going to process in 4 10 child of 512
+Number of steps for 4 10 -1
+Going to process in 6 10 child of 512
+Number of steps for 6 10 2
+new steps for 5 12is 3
+Number of steps for 5 12 3
+new steps for 7 11is 4
+Going to process in 9 10 child of 711
+Number of steps for 9 10 -1
+Going to process in 9 12 child of 711
+Number of steps for 9 12 -1
+Going to process in 6 13 child of 711
+Number of steps for 6 13 -1
+Going to process in 8 13 child of 711
+Number of steps for 8 13 -1
+Going to process in 6 9 child of 711
+Number of steps for 6 9 -1
+Going to process in 8 9 child of 711
+Number of steps for 8 9 -1
+Number of steps for 7 11 4
+new steps for 5 10is 5
+Going to process in 4 12 child of 510
+Number of steps for 4 12 -1
+Going to process in 6 12 child of 510
+Number of steps for 6 12 -1
+Going to process in 4 8 child of 510
+Number of steps for 4 8 -1
+Going to process in 6 8 child of 510
+Number of steps for 6 8 -1
+Number of steps for 5 10 5
+new steps for 7 9is 6
+Going to process in 9 8 child of 79
+Number of steps for 9 8 -1
+Going to process in 9 10 child of 79
+Number of steps for 9 10 -1
+Going to process in 6 11 child of 79
+Number of steps for 6 11 -1
+Going to process in 8 11 child of 79
+Number of steps for 8 11 -1
+Going to process in 6 7 child of 79
+Number of steps for 6 7 -1
+Going to process in 8 7 child of 79
+Number of steps for 8 7 -1
+Number of steps for 7 9 6
+new steps for 5 8is 7
+Going to process in 4 10 child of 58
+Number of steps for 4 10 -1
+Going to process in 6 10 child of 58
+Number of steps for 6 10 2
+new steps for 5 8is 3
+Going to process in 4 6 child of 58
+Number of steps for 4 6 -1
+Going to process in 6 6 child of 58
+Number of steps for 6 6 -1
+Number of steps for 5 8 3
+new steps for 7 7is 4
+Going to process in 9 6 child of 77
+Number of steps for 9 6 -1
+Going to process in 9 8 child of 77
+Number of steps for 9 8 -1
+Going to process in 6 9 child of 77
+Number of steps for 6 9 -1
+Going to process in 8 9 child of 77
+Number of steps for 8 9 -1
+Going to process in 6 5 child of 77
+Number of steps for 6 5 -1
+Going to process in 8 5 child of 77
+Number of steps for 8 5 -1
+Number of steps for 7 7 4
+new steps for 5 6is 5
+Going to process in 4 8 child of 56
+Number of steps for 4 8 -1
+Going to process in 6 8 child of 56
+Number of steps for 6 8 -1
+Going to process in 4 4 child of 56
+Number of steps for 4 4 -1
+Going to process in 6 4 child of 56
+Number of steps for 6 4 -1
+Number of steps for 5 6 5
+new steps for 7 5is 6
+Going to process in 9 4 child of 75
+Number of steps for 9 4 -1
+Going to process in 9 6 child of 75
+Number of steps for 9 6 -1
+Going to process in 6 7 child of 75
+Number of steps for 6 7 -1
+Going to process in 8 7 child of 75
+Number of steps for 8 7 -1
+Going to process in 6 3 child of 75
+Number of steps for 6 3 -1
+Going to process in 8 3 child of 75
+Number of steps for 8 3 -1
+Number of steps for 7 5 6
+new steps for 5 4is 7
+Going to process in 4 6 child of 54
+Number of steps for 4 6 -1
+Going to process in 6 6 child of 54
+Number of steps for 6 6 -1
+Going to process in 4 2 child of 54
+Number of steps for 4 2 -1
+Going to process in 6 2 child of 54
+Number of steps for 6 2 -1
+Number of steps for 5 4 7
+new steps for 7 3is 8
+Going to process in 9 2 child of 73
+Number of steps for 9 2 -1
+Going to process in 9 4 child of 73
+Number of steps for 9 4 -1
+Going to process in 6 5 child of 73
+Number of steps for 6 5 -1
+Going to process in 8 5 child of 73
+Number of steps for 8 5 -1
+Going to process in 6 1 child of 73
+Number of steps for 6 1 -1
+Going to process in 8 1 child of 73
+Number of steps for 8 1 -1
+Number of steps for 7 3 8
+new steps for 9 2is 9
+Going to process in 11 1 child of 92
+Number of steps for 11 1 -1
+Going to process in 11 3 child of 92
+Number of steps for 11 3 -1
+Going to process in 8 4 child of 92
+Number of steps for 8 4 -1
+Going to process in 10 4 child of 92
+Number of steps for 10 4 -1
+Number of steps for 9 2 9
+new steps for 7 1is 10
+Going to process in 6 3 child of 71
+Number of steps for 6 3 -1
+Going to process in 8 3 child of 71
+Number of steps for 8 3 -1
+Number of steps for 7 1 10
+new steps for 5 2is 11
+Going to process in 7 3 child of 52
+Number of steps for 7 3 8
+new steps for 5 2is 9
+Going to process in 4 4 child of 52
+Number of steps for 4 4 -1
+Going to process in 6 4 child of 52
+Number of steps for 6 4 -1
+Number of steps for 5 2 9
+new steps for 3 1is 10
+Going to process in 2 3 child of 31
+Number of steps for 2 3 -1
+Going to process in 4 3 child of 31
+Number of steps for 4 3 -1
+Number of steps for 3 1 10
+new steps for 1 2is 11
+Going to process in 3 3 child of 12
+Number of steps for 3 3 -1
+Going to process in 2 4 child of 12
+Number of steps for 2 4 -1
+Number of steps for 1 2 11
+new steps for 3 3is 12
+Going to process in 1 4 child of 33
+Number of steps for 1 4 -1
+Going to process in 5 2 child of 33
+Number of steps for 5 2 9
+new steps for 3 3is 10
+Going to process in 5 4 child of 33
+Number of steps for 5 4 7
+new steps for 3 3is 8
+Going to process in 2 5 child of 33
+Number of steps for 2 5 -1
+Going to process in 4 5 child of 33
+Number of steps for 4 5 -1
+Going to process in 2 1 child of 33
+Number of steps for 2 1 -1
+Going to process in 4 1 child of 33
+Number of steps for 4 1 -1
+Number of steps for 3 3 8
+new steps for 1 4is 9
+Going to process in 3 5 child of 14
+Number of steps for 3 5 -1
+Going to process in 2 6 child of 14
+Number of steps for 2 6 -1
+Going to process in 2 2 child of 14
+Number of steps for 2 2 -1
+Number of steps for 1 4 9
+new steps for 3 5is 10
+Going to process in 1 6 child of 35
+Number of steps for 1 6 -1
+Going to process in 5 4 child of 35
+Number of steps for 5 4 7
+new steps for 3 5is 8
+Going to process in 5 6 child of 35
+Number of steps for 5 6 5
+new steps for 3 5is 6
+Going to process in 2 7 child of 35
+Number of steps for 2 7 -1
+Going to process in 4 7 child of 35
+Number of steps for 4 7 -1
+Going to process in 2 3 child of 35
+Number of steps for 2 3 -1
+Going to process in 4 3 child of 35
+Number of steps for 4 3 -1
+Number of steps for 3 5 6
+new steps for 1 6is 7
+Going to process in 3 7 child of 16
+Number of steps for 3 7 -1
+Going to process in 2 8 child of 16
+Number of steps for 2 8 -1
+Going to process in 2 4 child of 16
+Number of steps for 2 4 -1
+Number of steps for 1 6 7
+new steps for 3 7is 8
+Going to process in 1 8 child of 37
+Number of steps for 1 8 -1
+Going to process in 5 6 child of 37
+Number of steps for 5 6 5
+new steps for 3 7is 6
+Going to process in 5 8 child of 37
+Number of steps for 5 8 3
+new steps for 3 7is 4
+Going to process in 2 9 child of 37
+Number of steps for 2 9 -1
+Going to process in 4 9 child of 37
+Number of steps for 4 9 1
+new steps for 3 7is 2
+Going to process in 2 5 child of 37
+Number of steps for 2 5 -1
+Going to process in 4 5 child of 37
+Number of steps for 4 5 -1
+Number of steps for 3 7 2
+new steps for 1 8is 3
+Going to process in 3 9 child of 18
+Number of steps for 3 9 -1
+Going to process in 2 10 child of 18
+Number of steps for 2 10 0
+new steps for 1 8is 1
+Going to process in 2 6 child of 18
+Number of steps for 2 6 -1
+Number of steps for 1 8 1
+new steps for 3 9is 2
+Going to process in 1 10 child of 39
+Number of steps for 1 10 -1
+Going to process in 5 8 child of 39
+Number of steps for 5 8 3
+Going to process in 5 10 child of 39
+Number of steps for 5 10 5
+Going to process in 2 11 child of 39
+Number of steps for 2 11 -1
+Going to process in 4 11 child of 39
+Number of steps for 4 11 1
+Going to process in 2 7 child of 39
+Number of steps for 2 7 -1
+Going to process in 4 7 child of 39
+Number of steps for 4 7 -1
+Number of steps for 3 9 2
+new steps for 1 10is 3
+Going to process in 3 11 child of 110
+Number of steps for 3 11 -1
+Going to process in 2 12 child of 110
+Number of steps for 2 12 2
+Going to process in 2 8 child of 110
+Number of steps for 2 8 -1
+Number of steps for 1 10 3
+new steps for 3 11is 4
+Going to process in 1 12 child of 311
+Number of steps for 1 12 -1
+Going to process in 5 10 child of 311
+Number of steps for 5 10 5
+Going to process in 5 12 child of 311
+Number of steps for 5 12 3
+Going to process in 2 13 child of 311
+Number of steps for 2 13 -1
+Going to process in 4 13 child of 311
+Number of steps for 4 13 3
+Going to process in 2 9 child of 311
+Number of steps for 2 9 -1
+Going to process in 4 9 child of 311
+Number of steps for 4 9 1
+new steps for 3 11is 2
+Number of steps for 3 11 2
+new steps for 1 12is 3
+Going to process in 3 13 child of 112
+Number of steps for 3 13 -1
+Going to process in 2 14 child of 112
+Number of steps for 2 14 4
+Going to process in 2 10 child of 112
+Number of steps for 2 10 0
+new steps for 1 12is 1
+Number of steps for 1 12 1
+new steps for 3 13is 2
+Going to process in 1 14 child of 313
+Number of steps for 1 14 -1
+Going to process in 5 12 child of 313
+Number of steps for 5 12 3
+Going to process in 5 14 child of 313
+Number of steps for 5 14 9
+Going to process in 2 15 child of 313
+Number of steps for 2 15 -1
+Going to process in 4 15 child of 313
+Number of steps for 4 15 -1
+Going to process in 2 11 child of 313
+Number of steps for 2 11 -1
+Going to process in 4 11 child of 313
+Number of steps for 4 11 1
+Number of steps for 3 13 2
+new steps for 1 14is 3
+Going to process in 3 15 child of 114
+Number of steps for 3 15 -1
+Going to process in 2 16 child of 114
+Number of steps for 2 16 -1
+Going to process in 2 12 child of 114
+Number of steps for 2 12 2
+Number of steps for 1 14 3
+new steps for 3 15is 4
+Going to process in 1 16 child of 315
+Number of steps for 1 16 5
+Going to process in 5 14 child of 315
+Number of steps for 5 14 9
+Going to process in 5 16 child of 315
+Number of steps for 5 16 7
+Going to process in 2 17 child of 315
+Number of steps for 2 17 -1
+Going to process in 4 17 child of 315
+Number of steps for 4 17 -1
+Going to process in 2 13 child of 315
+Number of steps for 2 13 -1
+Going to process in 4 13 child of 315
+Number of steps for 4 13 3
+Number of steps for 3 15 4
+new steps for 2 13is 5
+Going to process in 1 11 child of 213
+Number of steps for 1 11 -1
+Going to process in 3 11 child of 213
+Number of steps for 3 11 2
+new steps for 2 13is 3
+Number of steps for 2 13 3
+new steps for 4 14is 4
+Going to process in 2 15 child of 414
+Number of steps for 2 15 -1
+Going to process in 6 13 child of 414
+Number of steps for 6 13 -1
+Going to process in 6 15 child of 414
+Number of steps for 6 15 -1
+Going to process in 3 16 child of 414
+Number of steps for 3 16 -1
+Going to process in 5 16 child of 414
+Number of steps for 5 16 7
+Going to process in 3 12 child of 414
+Number of steps for 3 12 -1
+Going to process in 5 12 child of 414
+Number of steps for 5 12 3
+Number of steps for 4 14 4
+new steps for 2 15is 5
+Going to process in 4 16 child of 215
+Number of steps for 4 16 -1
+Going to process in 1 17 child of 215
+Number of steps for 1 17 -1
+Going to process in 3 17 child of 215
+Number of steps for 3 17 6
+Going to process in 1 13 child of 215
+Number of steps for 1 13 -1
+Going to process in 3 13 child of 215
+Number of steps for 3 13 2
+new steps for 2 15is 3
+Number of steps for 2 15 3
+new steps for 1 17is 4
+Number of steps for 1 17 4
+new steps for 3 16is 5
+Going to process in 5 15 child of 316
+Number of steps for 5 15 -1
+Going to process in 5 17 child of 316
+Number of steps for 5 17 -1
+Going to process in 2 14 child of 316
+Number of steps for 2 14 4
+Going to process in 4 14 child of 316
+Number of steps for 4 14 4
+Number of steps for 3 16 5
+new steps for 1 15is 6
+Going to process in 2 17 child of 115
+Number of steps for 2 17 -1
+Going to process in 2 13 child of 115
+Number of steps for 2 13 3
+new steps for 1 15is 4
+Number of steps for 1 15 4
+new steps for 3 14is 5
+Going to process in 5 13 child of 314
+Number of steps for 5 13 -1
+Going to process in 5 15 child of 314
+Number of steps for 5 15 -1
+Going to process in 2 16 child of 314
+Number of steps for 2 16 -1
+Going to process in 4 16 child of 314
+Number of steps for 4 16 -1
+Going to process in 2 12 child of 314
+Number of steps for 2 12 2
+new steps for 3 14is 3
+Going to process in 4 12 child of 314
+Number of steps for 4 12 -1
+Number of steps for 3 14 3
+new steps for 1 13is 4
+Going to process in 2 15 child of 113
+Number of steps for 2 15 3
+Going to process in 2 11 child of 113
+Number of steps for 2 11 -1
+Number of steps for 1 13 4
+new steps for 3 12is 5
+Going to process in 5 11 child of 312
+Number of steps for 5 11 -1
+Going to process in 5 13 child of 312
+Number of steps for 5 13 -1
+Going to process in 2 14 child of 312
+Number of steps for 2 14 4
+Going to process in 4 14 child of 312
+Number of steps for 4 14 4
+Going to process in 2 10 child of 312
+Number of steps for 2 10 0
+new steps for 3 12is 1
+Going to process in 4 10 child of 312
+Number of steps for 4 10 -1
+Number of steps for 3 12 1
+new steps for 1 11is 2
+Going to process in 2 13 child of 111
+Number of steps for 2 13 3
+Going to process in 2 9 child of 111
+Number of steps for 2 9 -1
+Number of steps for 1 11 2
+new steps for 3 10is 3
+Going to process in 5 9 child of 310
+Number of steps for 5 9 -1
+Going to process in 5 11 child of 310
+Number of steps for 5 11 -1
+Going to process in 2 12 child of 310
+Number of steps for 2 12 2
+Going to process in 4 12 child of 310
+Number of steps for 4 12 -1
+Going to process in 2 8 child of 310
+Number of steps for 2 8 -1
+Going to process in 4 8 child of 310
+Number of steps for 4 8 -1
+Number of steps for 3 10 3
+new steps for 1 9is 4
+Going to process in 2 11 child of 19
+Number of steps for 2 11 -1
+Going to process in 2 7 child of 19
+Number of steps for 2 7 -1
+Number of steps for 1 9 4
+new steps for 3 8is 5
+Going to process in 5 7 child of 38
+Number of steps for 5 7 -1
+Going to process in 5 9 child of 38
+Number of steps for 5 9 -1
+Going to process in 2 10 child of 38
+Number of steps for 2 10 0
+new steps for 3 8is 1
+Going to process in 4 10 child of 38
+Number of steps for 4 10 -1
+Going to process in 2 6 child of 38
+Number of steps for 2 6 -1
+Going to process in 4 6 child of 38
+Number of steps for 4 6 -1
+Number of steps for 3 8 1
+new steps for 1 7is 2
+Going to process in 2 9 child of 17
+Number of steps for 2 9 -1
+Going to process in 2 5 child of 17
+Number of steps for 2 5 -1
+Number of steps for 1 7 2
+new steps for 3 6is 3
+Going to process in 5 5 child of 36
+Number of steps for 5 5 -1
+Going to process in 5 7 child of 36
+Number of steps for 5 7 -1
+Going to process in 2 8 child of 36
+Number of steps for 2 8 -1
+Going to process in 4 8 child of 36
+Number of steps for 4 8 -1
+Going to process in 2 4 child of 36
+Number of steps for 2 4 -1
+Going to process in 4 4 child of 36
+Number of steps for 4 4 -1
+Number of steps for 3 6 3
+new steps for 1 5is 4
+Going to process in 2 7 child of 15
+Number of steps for 2 7 -1
+Going to process in 2 3 child of 15
+Number of steps for 2 3 -1
+Number of steps for 1 5 4
+new steps for 3 4is 5
+Going to process in 5 3 child of 34
+Number of steps for 5 3 -1
+Going to process in 5 5 child of 34
+Number of steps for 5 5 -1
+Going to process in 2 6 child of 34
+Number of steps for 2 6 -1
+Going to process in 4 6 child of 34
+Number of steps for 4 6 -1
+Going to process in 2 2 child of 34
+Number of steps for 2 2 -1
+Going to process in 4 2 child of 34
+Number of steps for 4 2 -1
+Number of steps for 3 4 5
+new steps for 5 3is 6
+Going to process in 7 2 child of 53
+Number of steps for 7 2 -1
+Going to process in 7 4 child of 53
+Number of steps for 7 4 -1
+Going to process in 4 5 child of 53
+Number of steps for 4 5 -1
+Going to process in 6 5 child of 53
+Number of steps for 6 5 -1
+Going to process in 4 1 child of 53
+Number of steps for 4 1 -1
+Going to process in 6 1 child of 53
+Number of steps for 6 1 -1
+Number of steps for 5 3 6
+new steps for 7 2is 7
+Going to process in 9 1 child of 72
+Number of steps for 9 1 -1
+Going to process in 9 3 child of 72
+Number of steps for 9 3 -1
+Going to process in 6 4 child of 72
+Number of steps for 6 4 -1
+Going to process in 8 4 child of 72
+Number of steps for 8 4 -1
+Number of steps for 7 2 7
+new steps for 5 1is 8
+Going to process in 4 3 child of 51
+Number of steps for 4 3 -1
+Going to process in 6 3 child of 51
+Number of steps for 6 3 -1
+Number of steps for 5 1 8
+new steps for 3 2is 9
+Going to process in 5 3 child of 32
+Number of steps for 5 3 6
+new steps for 3 2is 7
+Going to process in 2 4 child of 32
+Number of steps for 2 4 -1
+Going to process in 4 4 child of 32
+Number of steps for 4 4 -1
+Number of steps for 3 2 7
+new steps for 1 3is 8
+Going to process in 3 4 child of 13
+Number of steps for 3 4 5
+new steps for 1 3is 6
+Going to process in 2 5 child of 13
+Number of steps for 2 5 -1
+Going to process in 2 1 child of 13
+Number of steps for 2 1 -1
+Number of steps for 1 3 6
+new steps for 2 1is 7
+Going to process in 3 3 child of 21
+Number of steps for 3 3 8
+Number of steps for 2 1 7
+new steps for 4 2is 8
+Going to process in 2 3 child of 42
+Number of steps for 2 3 -1
+Going to process in 6 1 child of 42
+Number of steps for 6 1 -1
+Going to process in 6 3 child of 42
+Number of steps for 6 3 -1
+Going to process in 3 4 child of 42
+Number of steps for 3 4 5
+new steps for 4 2is 6
+Going to process in 5 4 child of 42
+Number of steps for 5 4 7
+Number of steps for 4 2 6
+new steps for 2 3is 7
+Going to process in 4 4 child of 23
+Number of steps for 4 4 -1
+Going to process in 1 5 child of 23
+Number of steps for 1 5 4
+new steps for 2 3is 5
+Going to process in 3 5 child of 23
+Number of steps for 3 5 6
+Going to process in 1 1 child of 23
+Number of steps for 1 1 -1
+Going to process in 3 1 child of 23
+Number of steps for 3 1 10
+Number of steps for 2 3 5
+new steps for 4 4is 6
+Going to process in 2 5 child of 44
+Number of steps for 2 5 -1
+Going to process in 6 3 child of 44
+Number of steps for 6 3 -1
+Going to process in 6 5 child of 44
+Number of steps for 6 5 -1
+Going to process in 3 6 child of 44
+Number of steps for 3 6 3
+new steps for 4 4is 4
+Going to process in 5 6 child of 44
+Number of steps for 5 6 5
+Going to process in 3 2 child of 44
+Number of steps for 3 2 7
+Going to process in 5 2 child of 44
+Number of steps for 5 2 9
+Number of steps for 4 4 4
+new steps for 2 5is 5
+Going to process in 4 6 child of 25
+Number of steps for 4 6 -1
+Going to process in 1 7 child of 25
+Number of steps for 1 7 2
+new steps for 2 5is 3
+Going to process in 3 7 child of 25
+Number of steps for 3 7 2
+Going to process in 1 3 child of 25
+Number of steps for 1 3 6
+Going to process in 3 3 child of 25
+Number of steps for 3 3 8
+Number of steps for 2 5 3
+new steps for 4 6is 4
+Going to process in 2 7 child of 46
+Number of steps for 2 7 -1
+Going to process in 6 5 child of 46
+Number of steps for 6 5 -1
+Going to process in 6 7 child of 46
+Number of steps for 6 7 -1
+Going to process in 3 8 child of 46
+Number of steps for 3 8 1
+new steps for 4 6is 2
+Going to process in 5 8 child of 46
+Number of steps for 5 8 3
+Going to process in 3 4 child of 46
+Number of steps for 3 4 5
+Going to process in 5 4 child of 46
+Number of steps for 5 4 7
+Number of steps for 4 6 2
+new steps for 2 7is 3
+Going to process in 4 8 child of 27
+Number of steps for 4 8 -1
+Going to process in 1 9 child of 27
+Number of steps for 1 9 4
+Going to process in 3 9 child of 27
+Number of steps for 3 9 2
+Going to process in 1 5 child of 27
+Number of steps for 1 5 4
+Going to process in 3 5 child of 27
+Number of steps for 3 5 6
+Number of steps for 2 7 3
+new steps for 4 8is 4
+Going to process in 2 9 child of 48
+Number of steps for 2 9 -1
+Going to process in 6 7 child of 48
+Number of steps for 6 7 -1
+Going to process in 6 9 child of 48
+Number of steps for 6 9 -1
+Going to process in 3 10 child of 48
+Number of steps for 3 10 3
+Going to process in 5 10 child of 48
+Number of steps for 5 10 5
+Going to process in 3 6 child of 48
+Number of steps for 3 6 3
+Going to process in 5 6 child of 48
+Number of steps for 5 6 5
+Number of steps for 4 8 4
+new steps for 2 9is 5
+Going to process in 4 10 child of 29
+Number of steps for 4 10 -1
+Going to process in 1 11 child of 29
+Number of steps for 1 11 2
+new steps for 2 9is 3
+Going to process in 3 11 child of 29
+Number of steps for 3 11 2
+Going to process in 1 7 child of 29
+Number of steps for 1 7 2
+Going to process in 3 7 child of 29
+Number of steps for 3 7 2
+Number of steps for 2 9 3
+new steps for 4 10is 4
+Going to process in 2 11 child of 410
+Number of steps for 2 11 -1
+Going to process in 6 9 child of 410
+Number of steps for 6 9 -1
+Going to process in 6 11 child of 410
+Number of steps for 6 11 -1
+Going to process in 3 12 child of 410
+Number of steps for 3 12 1
+new steps for 4 10is 2
+Going to process in 5 12 child of 410
+Number of steps for 5 12 3
+Going to process in 3 8 child of 410
+Number of steps for 3 8 1
+Going to process in 5 8 child of 410
+Number of steps for 5 8 3
+Number of steps for 4 10 2
+new steps for 2 11is 3
+Going to process in 4 12 child of 211
+Number of steps for 4 12 -1
+Going to process in 1 13 child of 211
+Number of steps for 1 13 4
+Going to process in 3 13 child of 211
+Number of steps for 3 13 2
+Going to process in 1 9 child of 211
+Number of steps for 1 9 4
+Going to process in 3 9 child of 211
+Number of steps for 3 9 2
+Number of steps for 2 11 3
+new steps for 4 12is 4
+Going to process in 2 13 child of 412
+Number of steps for 2 13 3
+Going to process in 6 11 child of 412
+Number of steps for 6 11 -1
+Going to process in 6 13 child of 412
+Number of steps for 6 13 -1
+Going to process in 3 14 child of 412
+Number of steps for 3 14 3
+Going to process in 5 14 child of 412
+Number of steps for 5 14 9
+Going to process in 3 10 child of 412
+Number of steps for 3 10 3
+Going to process in 5 10 child of 412
+Number of steps for 5 10 5
+Number of steps for 4 12 4
+new steps for 6 13is 5
+Going to process in 4 14 child of 613
+Number of steps for 4 14 4
+Going to process in 8 12 child of 613
+Number of steps for 8 12 -1
+Going to process in 8 14 child of 613
+Number of steps for 8 14 -1
+Going to process in 5 15 child of 613
+Number of steps for 5 15 -1
+Going to process in 7 15 child of 613
+Number of steps for 7 15 8
+Going to process in 5 11 child of 613
+Number of steps for 5 11 -1
+Going to process in 7 11 child of 613
+Number of steps for 7 11 4
+Number of steps for 6 13 5
+new steps for 8 14is 6
+Going to process in 6 15 child of 814
+Number of steps for 6 15 -1
+Going to process in 10 13 child of 814
+Number of steps for 10 13 -1
+Going to process in 10 15 child of 814
+Number of steps for 10 15 -1
+Going to process in 7 16 child of 814
+Number of steps for 7 16 -1
+Going to process in 9 16 child of 814
+Number of steps for 9 16 -1
+Going to process in 7 12 child of 814
+Number of steps for 7 12 -1
+Going to process in 9 12 child of 814
+Number of steps for 9 12 -1
+Going to process 8 16
+Going to process 12 14
+Going to process 12 16
+Going to process 9 17
+Going to process 11 17
+Going to process 9 13
+Going to process 11 13
+7
