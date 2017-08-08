@@ -1,0 +1,14 @@
+
+Course will cover 
+How to find dream job, Googles page rank and a lot more
+
+Lecture 1:
+
+In a group of 50 people almost all individuals are connected to each other if there is a random connection between any three ppl. 
+
+
+Lecture 2:
+Most possible graphs of 50 ppl with any 3 random friends is connected because the probability that there were two groups of 25-25 ppl where none of the 25 point didnt connect with any of the other 25 points is very very low.
+
+
+

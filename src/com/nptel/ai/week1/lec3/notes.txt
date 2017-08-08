@@ -1,0 +1,15 @@
+History of AI:
+Machines which can think (chap 5) Darthmount conference.
+John McCarthy coined the term AI.
+Marvin Minsky - Society Of the Mind/ The Emotion Machine
+Claude Shannon 
+Herbert Simon and Alan Newell
+JC Shaw (Logical Theorist)
+
+What do we need for AI:
+
+Symbol - It stands for number 7. It is a collection of symbols, alphabets/musical notes, road-signs
+
+Symbol-System - A collection of symbols. Patter, word, arrays, lists, even a tune
+
+Physical Symbol System - They obey laws of some kind, a formal system. Eg long division, an abacs, an algorithm

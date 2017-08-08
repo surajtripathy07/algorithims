@@ -1,224 +1,110 @@
-import java.lang.*;
-import java.util.Scanner;
+import java.util.*;
 
 class Main
 {
 	public static void main(String args[])
 	{
-		Scanner sc = new Scanner(System.in);	
-		int N, k;
-		int[] subMax = null;
-		int[] superMax = null;
-		int[] temp = null;
-		N = sc.nextInt();
-		k = sc.nextInt();
-		subMax = new int[N];
-		superMax = new int[N];
-		for (int i = 0; i < subMax.length; i++)
+	 	Scanner sc = new Scanner(System.in);	
+		int N = sc.nextInt();
+		int K = sc.nextInt();
+		int[] book1 = new int[N];
+		int[] book2 = new int[N];
+		for (int i = 0; i < N; i++)
 		{
-			subMax[i] = sc.nextInt();
+			book1[i] = sc.nextInt();
+		//	System.out.print(book1[i] +" ");
 		}
-		for (int i = 0; i < subMax.length; i++)
+		//	System.out.println();
+		for (int i = 0; i < N; i++)
                 {
-                        superMax[i] = sc.nextInt();
+                        book2[i] = sc.nextInt();
+		//	System.out.print(book2[i] +" ");
                 }
-		int skew = arrangeBookShelve(subMax, superMax, k);
+		int m1 = getMax(book1);
+		int m2 = getMax(book2);
+		int skew = 0;
+		//System.out.println(book1[m1] +" "+ book2[m2]);
+		if (book1[m1] > book2[m2])
+			skew = processSelves(book1, book2, m1, m2, getMin(book1), getMin(book2), K);
+		else
+			skew = processSelves(book2, book1, m2, m1, getMin(book2), getMin(book1), K);
+
 		System.out.println(skew);
 	}
 
-	public static void buildMaxHeap(int[] A)
+	public static int processSelves(int[] book1, int[] book2, int p1, int p2, int s1, int s2, int k)
 	{
-		int heapSize = A.length - 1;
-		for (int i = A.length/2 - 1; i >= 0; i--)
-			maxHeapify(A, i, heapSize);
+		//System.out.println(book1[s1] +" "+ book2[p1]);
+		if (book1[s1] < book2[p1] && k > 0)
+		{
+			int sp1 = getSecondMax(p1, book1);
+			int sp2 = getSecondMax(p2, book2);
+			//System.out.println(book1[sp1] +" "+ book2[sp2]);
+			// if max of shelf 1 and 2nd Max of shelf 1 are the minimum	
+			if (book1[p1] + book1[sp1] < book1[p1] + book2[sp2] && book1[p1] + book1[sp1] < book1[p1] + book2[p2])
+			{
+				int small = book2[s2];
+				book2[s2] = book1[p1];
+				book1[p1] = small;
+				if (book1[p1] > book1[sp1])
+					return processSelves(book2, book1, s2, p1, getMin(book2), getMin(book1), --k);
+				else	
+					return processSelves(book2, book1, s2, sp1, getMin(book2), getMin(book1), --k);				
+			}
+			else if (book1[p1] + book2[sp2] < book1[p1] + book2[p2])
+			{
+				int small = book1[s1];
+				book1[s1] = book2[p2];
+				book2[p2] = small;
+				if (book2[p2] > book2[sp2])
+					return processSelves(book1, book2, p1, p2, getMin(book1), getMin(book2), --k);
+				else
+					return processSelves(book1, book2, p1, sp2, getMin(book1), getMin(book2), --k);	
+			}
+		}
+		return book1[p1] + book2[p2];
 	}
 
-	public static void maxHeapify(int[] A, int parent, int heapSize)
+	public static int getMin(int[] arr)
 	{
-		int l = leftChild(parent);
-		int r = rightChild(parent);	
-		int largest = parent;
-		if (l <= heapSize && A[l] > A[largest])
-		{
-			largest = l;
-		}
-		if (r <= heapSize && A[r] > A[largest])
-		{
-			largest = r;
-		}
 		
-		if (largest != parent)
+		Integer min = -1;
+		for (int i = 0 ; i < arr.length; i++)
 		{
-			swap(A, largest, parent);
-			maxHeapify(A, largest, heapSize);
+			if (min == -1 || arr[i] < arr[min])
+			{
+				min = i;
+			}
 		}
+		return min;	
 	}
 
-	public static int secondMax(int[] A)
+	public static int getMax(int[] arr)
 	{
-		return A[1] > A[2] ? 1 : 2;
-	}
-	
-	public static int max(int[] A)
-	{
-		return 0;
-	}
-	
-	public static int min(int[] A)
-	{
-		return (A.length + 2)/4;
-	}
-	
-	public static int min(int[] A, int lessThan)
-	{
-		int to = A.length/2;
-		int from = (A.length + 2)/4;
-		for ( int i = to - 1; i >= from; i--)
-		{
-			int l = leftChild(i);
-			int r = rightChild(i);
-			if (l < A.length && A[l] <= lessThan)
-				return l;
-			else if (r < A.length && A[r] <= lessThan)
-				return r;
-		}
-		return -1;
-	}
-
-	public static int leftChild(int parent)
-	{
-		return 2*parent + 1;
-	}
-
-	public static int rightChild(int parent)
-	{
-		return 2*parent + 2;
-	}
-
-	public static void displayArr(int[] arr)
-        {
-                for(Integer i : arr)
+		Integer max = -1;
+                for (int i = 0 ; i < arr.length; i++)
                 {
-                        System.out.print(i + " ");
+                        if (max == -1 || arr[i] > arr[max])
+                        {
+                                max = i;
+                        }
                 }
-                System.out.println();
-        }
-	public static int[] swap(int[] arr, int i, int j)
-        {
-                
-                if (arr[i] != arr[j])
-                {
-                        arr[i]=arr[i]^arr[j];
-                arr[j]=arr[i]^arr[j];
-                arr[i]=arr[i]^arr[j];
-                }
-                
-                return arr;
-        }
-	
-	public static int arrangeBookShelve(int[] subMax, int superMax[], int swipes)
-	{
-		buildMaxHeap(subMax);
-		buildMaxHeap(superMax);	
-		int[] temp = null;
-		if (subMax[max(subMax)] > superMax[max(superMax)])
-		{
-			temp = subMax;
-			subMax = superMax;
-			superMax = temp;
-		}
-		int currentSkew = subMax[max(subMax)] + superMax[max(superMax)];
-		int count = 0;
-		int prevRoundSkew = currentSkew;
+                return max;	
+	}
 
-		while(swipes -- > 0)
-		{
-			int m = max(superMax);
-			int sm = secondMax(superMax);
-			int m_sub = max(subMax);
-			int sm_sub = secondMax(subMax);
-			
-			if (superMax[m] + superMax[sm] < currentSkew)
-			{
-				int  min = min(subMax, superMax[sm]);
-				if (min != -1)
-				{
-					currentSkew = superMax[m] + superMax[sm];	
-				}
-				else
-				{
-					min = min(subMax, subMax[m_sub]);
-					if (min != -1)
-					{
-						currentSkew = superMax[m] + subMax[min];
-						
-					}
-				}
-				if (min != -1)
-				{
-					superMax[m] = superMax[m] ^ subMax[min];
-        	                        subMax[min] = superMax[m] ^ subMax[min];
-        	                        superMax[m] = superMax[m] ^ subMax[min];
-	
-                                	maxHeapify(superMax,0,superMax.length);
-                                	buildMaxHeap(subMax);
-                                	if (subMax[m_sub] > superMax[m])
-                                	{
-                                	       temp = subMax;
-                                	       subMax = superMax;
-                                	       superMax = temp;
-                                	}
-				}
-			}
-			else if (superMax[m] + subMax[sm_sub] < currentSkew)
-			{
-				int min = min(superMax, subMax[sm_sub]);
-				if (min != -1)
-				{
-					currentSkew = superMax[m] + subMax[sm_sub];
-				}
-				else
-				{
-					min = min(superMax, subMax[m_sub]);
-					if (min != -1)
-					{
-						currentSkew = superMax[m] + superMax[min];
-					}
-				}
-				if (min != -1)
-				{
-					subMax[m_sub] = subMax[m_sub] ^ superMax[min];
-                	                superMax[min] = subMax[m_sub] ^ superMax[min];
-                	                subMax[m_sub] = subMax[m_sub] ^ superMax[min];
-        	                        
-	                                maxHeapify(subMax,0, subMax.length);
-                                	buildMaxHeap(superMax);
-                                	if (subMax[m_sub] > superMax[m])
-                                	{
-                                	      temp = subMax;
-                                	      subMax = superMax;
-                                	      superMax = temp;
-                                	}
-				}
-			}
-//			displayArr(subMax);
-//			System.out.println();
-//			displayArr(superMax);
-//			System.out.println(currentSkew);
-			if (prevRoundSkew == currentSkew)
-			{
-				count++;
-			}
-			else
-			{
-				prevRoundSkew = currentSkew;
-			}
-			if (count > 0)
-			{
-				return currentSkew;
-			}
-			
-		}	
-		return currentSkew;
+	public static int getSecondMax(int pos, int[] arr)
+	{
+		Integer max = -1;
+                for (int i = 0 ; i < arr.length; i++)
+                {
+			if (i == pos)
+				continue;
+
+                        if (max == -1 || arr[i] > arr[max])
+                        {
+                                max = i;
+                        }
+                }
+                return max;	
 	}
 }

@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     static ArrayList<ArrayList<Integer>> sol;
 	public ArrayList<ArrayList<Integer>> permute(ArrayList<Integer> a) {
@@ -5,7 +7,7 @@ public class Solution {
 	        return null;
 	    }
 	    sol = new ArrayList<ArrayList<Integer>>();
-	    permuter(a, 0, a.size());
+	    permuter(a, 0, 2);
 	    return sol;
 	}
 	
@@ -37,6 +39,15 @@ public class Solution {
         }
         return a;
     }
+
+    public static void main(String arg[]){
+		Solution s = new Solution();
+		ArrayList<Integer> a = new ArrayList<Integer>();
+		a.add(0);
+		a.add(1);
+		a.add(2);
+		System.out.println(s.permute(a));
+	}
 
 }
 
