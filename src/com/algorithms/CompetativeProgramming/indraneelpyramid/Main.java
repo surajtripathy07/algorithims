@@ -1,33 +1,22 @@
 import java.util.*;
+import java.io.*;
 
 class Main{
-	public static void main(String args[]){
-		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
-		Integer[][] arr = new Integer[n][2];
+	public static void main(String args[]) throws IOException{
+		//Scanner sc = new Scanner(System.in);
+		BufferedReader br = new BufferedReader(
+                              new InputStreamReader(System.in));
+		int[] arr = new int[Integer.parseInt(br.readLine())];
 
 		for (int i = 0; i < arr.length; i++){
-			arr[i][0] = sc.nextInt();
-			arr[i][1] = sc.nextInt();
+			StringTokenizer st = new StringTokenizer(br.readLine());
+			arr[i] = Math.min(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken()));
 		}
 
-		Arrays.sort(arr, new Comparator<Integer[]>(){
-			public int compare(Integer[] row1, Integer[] row2){
-				int compX = Integer.compare(row1[0], row2[0]);
-				int compY = Integer.compare(row1[1], row2[1]);
-				if (compX == -1 || compY == -1){
-					return -1;	
-				} else if (compX == 0 && compY == 0) {
-					return 0;
-				} else {
-					return 1;
-				}
-			}
-		});
+		Arrays.sort(arr);
 		int height = 0;
 		for (int i = 0; i < arr.length; i++){
-			System.out.println(arr[i][0]+" "+arr[i][1]);
-			if (height < arr[i][0] && height < arr[i][1]){
+			if (height < arr[i]){
 				height++;
 			}
 		}
