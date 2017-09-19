@@ -1,0 +1,1 @@
+http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/
