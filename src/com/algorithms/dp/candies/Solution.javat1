@@ -1,0 +1,41 @@
+import java.util.*;
+
+class Solution{
+
+	public int minimumChoc(int[] rating, int pos, int prev){
+		if (pos == rating.length) return 0;
+		int counter = prev + 1;
+		if (pos != 0){
+			if (rating[pos] <= rating[pos - 1]){
+				counter = prev - 1;
+			}
+		}
+		if (counter <= 0) return Integer.MAX_VALUE;
+		
+		int r = Integer.MAX_VALUE;
+		while(r == Integer.MAX_VALUE){
+			r = minimumChoc(rating, pos + 1, counter);
+			if (r == Integer.MAX_VALUE){
+				counter++;
+				if (counter == prev) return Integer.MAX_VALUE;
+			}
+		}
+		return r + prev;
+	}
+
+	public static void main(String args[]){
+	
+		Solution s = new Solution();
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int[] rating = new int[n];
+
+		while(n > 0){
+			rating[rating.length - n--] = sc.nextInt();	
+		}
+
+		System.out.println(s.minimumChoc(rating, 0, 0));
+	
+	}
+
+}
